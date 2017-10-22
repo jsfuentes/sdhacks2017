@@ -22,10 +22,10 @@ def extractVidLinks(soup):
 
 
 flag = True
-i = 0
+i = 2416
 
-wordStore = [] 
-linksStore = []
+#wordStore = [] 
+#linksStore = []
 file = open('link_record.txt', 'w')
 
 while flag:
@@ -47,25 +47,25 @@ while flag:
 		print "There is no tag where <span itemprop='attr' ...> "
 		flag = False 
 	else: #if true then len(wordTags) = 1
-		wLen = len(wordStore)
-		lLen = len(linksStore)
+		#wLen = len(wordStore)
+		#lLen = len(linksStore)
 
 		contents = wordTags[0].string
 		begInd = contents.index(prefix)
 		word = contents[begInd+len(prefix):] #word
-		linksStore.append(extractVidLinks(soup))
-		link = linksStore[i][0]              #link
+		#linksStore.append(extractVidLinks(soup))
+		link = extractVidLinks(soup)[0]              #link
 		
-		#Storing one entry to database
+		#--Storing one entry to database--
 		returnVal = collection.insert_one({"word":word , "link":link})
 
-		#Printing entry to console
+		#--Printing entry to console--
 		print str(i+1) + ": " + word
 
-		#Storing entry to file
+		#--Storing entry to file--
 		file.write('word: ' + word + "  link: " + link + "\n")
 
-		wordStore[wLen:wLen] =  [word]
+		#wordStore[wLen:wLen] =  [word]
 		i += 1
 		if i%100==0:
 			print "Sleeping for " + str(SLEEPTIME) + " miliseconds"
