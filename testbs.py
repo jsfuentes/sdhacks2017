@@ -28,7 +28,7 @@ wordStore = []
 linksStore = []
 file = open('link_record.txt', 'w')
 
-while flag and i<10:
+while flag:
 
 	r = urllib.urlopen('https://www.handspeak.com/word/search/index.php?id='+str(i+1)).read()
 	soup = BeautifulSoup(r,"html.parser")
@@ -57,7 +57,7 @@ while flag and i<10:
 		link = linksStore[i][0]              #link
 		
 		#Storing one entry to database
-		collection.insert_one({"word":word , "link":link})
+		returnVal = collection.insert_one({"word":word , "link":link})
 
 		#Printing entry to console
 		print str(i+1) + ": " + word
