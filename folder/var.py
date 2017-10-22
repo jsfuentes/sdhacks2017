@@ -6,8 +6,7 @@ app = Flask(__name__)\
 def index():
     if request.method == "POST":
         response = request.form["response"]
-        if response == "hello":
-            return render_template("abc.html")
+        return render_template("variable.html", variable = response)
     return render_template("login.html")
 
 if __name__ == "__main__":
