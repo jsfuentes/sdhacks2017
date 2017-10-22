@@ -2135,4 +2135,150 @@ word: Sweden  link: https://www.handspeak.com/word/s/sweden.mp4
 word: sweet  link: https://www.handspeak.com/word/s/sweet.mp4
 word: swimming  link: https://www.handspeak.com/word/s/swim.mp4
 word: swing  link: https://www.handspeak.com/word/s/swing.mp4
-word: S
+word: Switzerland  link: https://www.handspeak.com/word/s/switzerland.mp4
+word: Sydney  link: https://www.handspeak.com/word/s/sydney-au.mp4
+word: symbol  link: https://www.handspeak.com/word/s/symbol.mp4
+word: table  link: https://www.handspeak.com/word/t/table.mp4
+word: tablet  link: https://www.handspeak.com/word/t/tablet-screen.mp4
+word: Taiwan  link: https://www.handspeak.com/word/t/taiwan.mp4
+word: take  link: https://www.handspeak.com/word/t/take.mp4
+word: take for granted  link: https://www.handspeak.com/word/t/take-for-granted.mp4
+word: take over  link: https://www.handspeak.com/word/t/take-over.mp4
+word: talkative  link: https://www.handspeak.com/word/t/talkative.mp4
+word: blah-blah  link: https://www.handspeak.com/word/b/blah-talk.mp4
+word: tall  link: https://www.handspeak.com/word/t/tall.mp4
+word: tan  link: https://www.handspeak.com/word/t/tan-color.mp4
+word: tape measure  link: https://www.handspeak.com/word/t/tape-measure.mp4
+word: taper  link: https://www.handspeak.com/word/t/taper.mp4
+word: taste  link: https://www.handspeak.com/word/t/taste.mp4
+word: tea  link: https://www.handspeak.com/word/t/tea.mp4
+word: teach  link: https://www.handspeak.com/word/t/teach.mp4
+word: teacher  link: https://www.handspeak.com/word/t/teacher.mp4
+word: wool  link: https://www.handspeak.com/word/w/wool-fs.mp4
+word: teach a lesson  link: https://www.handspeak.com/word/t/teach-lesson.mp4
+word: tear (weep)  link: https://www.handspeak.com/word/t/tear-cry.mp4
+word: tease  link: https://www.handspeak.com/word/t/tease.mp4
+word: technique  link: https://www.handspeak.com/word/t/technique.mp4
+word: technology  link: https://www.handspeak.com/word/t/technology.mp4
+word: telegram  link: https://www.handspeak.com/word/t/telegram.mp4
+word: telepathy  link: https://www.handspeak.com/word/t/telepathy.mp4
+word: telephone  link: https://www.handspeak.com/word/t/telephone.mp4
+word: spyglass  link: https://www.handspeak.com/word/s/spyglass.mp4
+word: duration  link: https://www.handspeak.com/word/d/duration.mp4
+word: telescope  link: https://www.handspeak.com/word/t/telescope.mp4
+word: tell  link: https://www.handspeak.com/word/t/tell.mp4
+word: notify  link: https://www.handspeak.com/word/n/notify.mp4
+word: describe  link: https://www.handspeak.com/word/d/describe.mp4
+word: uh-huh  link: https://www.handspeak.com/word/y/uh-huh.mp4
+word: temple  link: https://www.handspeak.com/word/t/temple-nsl.mp4
+word: temporary  link: https://www.handspeak.com/word/t/temporary.mp4
+word: tempt  link: https://www.handspeak.com/word/t/tempt.mp4
+word: tend  link: https://www.handspeak.com/word/t/tend.mp4
+word: tennis  link: https://www.handspeak.com/word/t/tennis.mp4
+word: tent  link: https://www.handspeak.com/word/t/tent.mp4
+word: terrorism  link: https://www.handspeak.com/word/t/terrorism.mp4
+word: test  link: https://www.handspeak.com/word/t/test.mp4
+word: test anxiety  link: https://www.handspeak.com/word/t/test-anxiety.mp4
+word: testament  link: https://www.handspeak.com/word/t/testament.mp4
+word: do it yourself  link: https://www.handspeak.com/word/d/diy.mp4
+word: Thailand  link: https://www.handspeak.com/word/t/thailand.mp4
+word: than  link: https://www.handspeak.com/word/t/than.mp4
+word: thank you  link: https://www.handspeak.com/word/t/thank.mp4
+word: thank you all  link: https://www.handspeak.com/word/t/thank-all.mp4
+word: zoom shot  link: https://www.handspeak.com/word/z/zoom-lens.mp4
+word: zoom in  link: https://www.handspeak.com/word/z/zoom-in.mp4
+word: zoom out  link: https://www.handspeak.com/word/z/zoom-out.mp4
+word: thankful  link: https://www.handspeak.com/word/t/thankful.mp4
+word: Thanksgiving  link: https://www.handspeak.com/word/t/thanksgiving-us.mp4
+word: then  link: https://www.handspeak.com/word/t/then.mp4
+word: suntan  link: https://www.handspeak.com/word/s/suntan.mp4
+word: they  link: https://www.handspeak.com/word/t/they.mp4
+word: thick  link: https://www.handspeak.com/word/t/thick.mp4
+word: thief  link: https://www.handspeak.com/word/t/thief.mp4
+word: hold up  link: https://www.handspeak.com/word/h/hold-up.mp4
+word: thin  link: https://www.handspeak.com/word/t/thin.mp4
+word: thing  link: https://www.handspeak.com/word/t/thing.mp4
+word: think  link: https://www.handspeak.com/word/t/think.mp4
+word: order (sequence)  link: https://www.handspeak.com/word/o/order-sequence.mp4
+word: questionnaire  link: https://www.handspeak.com/word/q/questionnaire.mp4
+word: thirdly  link: https://www.handspeak.com/word/t/thirdly.mp4
+word: thirsty  link: https://www.handspeak.com/word/t/thirsty.mp4
+word: shriek  link: https://www.handspeak.com/word/s/shriek.mp4
+word: threaten  link: https://www.handspeak.com/word/t/threaten.mp4
+word: thrilled  link: https://www.handspeak.com/word/t/thrilled.mp4
+word: lament  link: https://www.handspeak.com/word/l/lament.mp4
+word: through  link: https://www.handspeak.com/word/t/through.mp4
+word: throw  link: https://www.handspeak.com/word/t/throw.mp4
+word: throw away  link: https://www.handspeak.com/word/t/throw-away.mp4
+word: Thursdays  link: https://www.handspeak.com/word/t/thursdays.mp4
+word: ticket  link: https://www.handspeak.com/word/t/ticket.mp4
+word: tickle  link: https://www.handspeak.com/word/t/tickle.mp4
+word: bolo-tie  link: https://www.handspeak.com/word/b/bolo-tie.mp4
+word: tie  link: https://www.handspeak.com/word/t/tie-knot.mp4
+word: tiger  link: https://www.handspeak.com/word/t/tiger.mp4
+word: tight  link: https://www.handspeak.com/word/t/tight.mp4
+word: tilak  link: https://www.handspeak.com/word/t/tilak.mp4
+word: tilak  link: https://www.handspeak.com/word/t/tilak-powder.mp4
+word: timeline  link: https://www.handspeak.com/word/t/timeline.mp4
+word: time  link: https://www.handspeak.com/word/t/time2.mp4
+word: at the same time  link: https://www.handspeak.com/word/a/at-same-time.mp4
+word: tired  link: https://www.handspeak.com/word/t/tired.mp4
+word: toast  link: https://www.handspeak.com/word/t/toast (food).mp4
+word: toast (cheer)  link: https://www.handspeak.com/word/t/toast-cheer.mp4
+word: tobacco  link: https://www.handspeak.com/word/t/tobacco.mp4
+word: together  link: https://www.handspeak.com/word/t/together.mp4
+word: toilet  link: https://www.handspeak.com/word/t/toilet.mp4
+word: tolerate  link: https://www.handspeak.com/word/t/tolerate.mp4
+word: tomato  link: https://www.handspeak.com/word/t/tomato.mp4
+word: tomorrow  link: https://www.handspeak.com/word/t/tomorrow.mp4
+word: tonight  link: https://www.handspeak.com/word/t/tonight.mp4
+word: title  link: https://www.handspeak.com/word/t/title.mp4
+word: to  link: https://www.handspeak.com/word/t/to.mp4
+word: too bad  link: https://www.handspeak.com/word/t/too-bad.mp4
+word: alas  link: https://www.handspeak.com/word/a/alas.mp4
+word: moreover  link: https://www.handspeak.com/word/m/moreover.mp4
+word: foremost  link: https://www.handspeak.com/word/f/foremost.mp4
+word: tornado  link: https://www.handspeak.com/word/t/tornado.mp4
+word: toss and turn  link: https://www.handspeak.com/word/t/toss-turn.mp4
+word: touch  link: https://www.handspeak.com/word/t/touch.mp4
+word: topic  link: https://www.handspeak.com/word/t/topic.mp4
+word: on the same page  link: https://www.handspeak.com/word/o/on-same-page.mp4
+word: tough  link: https://www.handspeak.com/word/t/tough.mp4
+word: sturdy  link: https://www.handspeak.com/word/s/sturdy.mp4
+word: tournament  link: https://www.handspeak.com/word/t/tournament
+.mp4
+word: tow  link: https://www.handspeak.com/word/t/tow-tug.mp4
+word: towel  link: https://www.handspeak.com/word/t/towel.mp4
+word: town  link: https://www.handspeak.com/word/t/town.mp4
+word: track and field  link: https://www.handspeak.com/word/t/track-field.mp4
+word: trade  link: https://www.handspeak.com/word/t/trade.mp4
+word: trader  link: https://www.handspeak.com/word/t/trader.mp4
+word: trademark-registered  link: https://www.handspeak.com/word/t/trademark-registered.mp4
+word: traffic  link: https://www.handspeak.com/word/t/traffic.mp4
+word: tragedy  link: https://www.handspeak.com/word/t/tragedy.mp4
+word: train  link: https://www.handspeak.com/word/t/train.mp4
+word: transexual  link: https://www.handspeak.com/word/t/transexual.mp4
+word: transfer  link: https://www.handspeak.com/word/t/transfer.mp4
+word: restaurant  link: https://www.handspeak.com/word/r/restaurant.mp4
+word: travel  link: https://www.handspeak.com/word/t/travel.mp4
+word: triple  link: https://www.handspeak.com/word/t/triple.mp4
+word: tree  link: https://www.handspeak.com/word/t/tree.mp4
+word: trial  link: https://www.handspeak.com/word/t/trial.mp4
+word: triangle  link: https://www.handspeak.com/word/t/triangle.mp4
+word: trouble  link: https://www.handspeak.com/word/t/trouble.mp4
+word: truck  link: https://www.handspeak.com/word/t/truck-fs.mp4
+word: true  link: https://www.handspeak.com/word/t/true.mp4
+word: trust  link: https://www.handspeak.com/word/t/trust.mp4
+word: ride along  link: https://www.handspeak.com/word/r/ride-along.mp4
+word: try  link: https://www.handspeak.com/word/t/try.mp4
+word: Tuesdays  link: https://www.handspeak.com/word/t/tuesdays.mp4
+word: turn  link: https://www.handspeak.com/word/t/turn.mp4
+word: shun  link: https://www.handspeak.com/word/s/shun.mp4
+word: fall on deaf ears  link: https://www.handspeak.com/word/f/fall-on-deaf-ear.mp4
+word: turn upside down  link: https://www.handspeak.com/word/t/turn-upside-down.mp4
+word: turtle  link: https://www.handspeak.com/word/t/turtle.mp4
+word: twice  link: https://www.handspeak.com/word/t/twice.mp4
+word: twin  link: https://www.handspeak.com/word/t/twin-offspring.mp4
+word: twist  link: https://www.handspeak.com/word/t/twist.mp4
+word: rebel  link: https://www.handspeak.com/word/r/rebel.mp4
+word: two-of-three  link: https://www.handspeak.com/word/t/two-of-thr
