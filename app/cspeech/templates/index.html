@@ -50,9 +50,17 @@
     <!-- Header -->
     <header class="masthead">
       <div class="container">
-        <img class="img-fluid" src="{{url_for('static', filename='img/Logo.svg')}}" alt="">
+        {% if variable != None %}
+          <video width="320" height = "240" controls>
+            <source src={{variable}} type=video/mp4>
+          </video>
+        {% else %}
+          <img class="img-fluid" src="{{url_for('static', filename='img/Logo.svg')}}" alt="">
+          <div class="intro-text">
+            <span class="name">Cspeech</span>
+          </div>
+        {% endif %}
         <div class="intro-text">
-          <span class="name">Cspeech</span>
           <hr class="star-light">
           <span class="skills">Communicate beyond words</span>
         </div>
@@ -68,19 +76,19 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-            <form action="/getVideo" method="POST" name="sentMessage" id="contactForm" novalidate>
+            <form action="/" method="POST" name="sentMessage" id="contactForm" novalidate>
               <div class="control-group">
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Phone Number</label>
-                  <input class="form-control" id="phone" value="phone" type="tel" placeholder="Phone Number" required data-validation-required-message="Please enter your phone number.">
+                  <input class="form-control" name="phone" type="tel" placeholder="Phone Number">
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls">
                   <label>Message</label>
-                  <textarea class="form-control" id="message" rows="5" placeholder="Message" required data-validation-required-message="Please enter a message."></textarea>
+                  <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
@@ -94,12 +102,6 @@
         </div>
       </div>
     </section>
-
-    {% if variable != None %}
-    <video width="320" height = "240" controls>
-      <source src={{variable}} type=video/mp4>
-    </video>
-    {% endif %}
 
     <!-- Footer -->
     <footer class="text-center">

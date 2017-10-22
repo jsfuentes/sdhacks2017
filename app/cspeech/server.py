@@ -1,27 +1,43 @@
 # server.py
 from flask import Flask, render_template, flash, request, redirect
 from flask_script import Manager
+from pymongo import MongoClient
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = "hard"
 manager = Manager(app)
 
+client = MongoClient("mongodb://admin:admin1@ds227555.mlab.com:27555/sdhacks2017")
+db = client.sdhacks2017
+collection = db.mynewcollection
+
+def processMessage(msg):
+    if not msg:
+        return ""
+    return msg.split()[0]
+
+def retrieveAslUrl(word):
+    dbObject = collection.find_one({'word': word})
+    print(dbObject)
+    if dbObject != None:
+        return dbObject['link']
+    return None
+
+
 @app.route('/', methods=["GET", "POST"])
 def index():
-    print("TEST")
-    defaultURL = "https://www.handspeak.com/word/b/baby.mp4"
     if request.method == "POST":
-        print("POST")
-        response = request.form["phone"]
-        print(response)
-        return "HELLO"
-        return render_template("index.html", variable = defaultURL)
-    return render_template("index.html",  variable = None)
+        phone = request.form.get("phone", 0, type=int)
+        message = request.form.get("message", "", type=str)
+        print(request.form)
+        processedMessage = processMessage(message)
+        aslUrl = retrieveAslUrl(processedMessage)
+        if aslUrl == None or phone == 0 or message == "":
+            return render_template("index.html",  variable = None)
 
-@app.route('/getVideo')
-def video():
-    print("VIDEO")
-    return jsonify("https://www.handspeak.com/word/b/baby.mp4")
+        return render_template("index.html", variable = aslUrl)
+
+    return render_template("index.html",  variable = None)
 
 if __name__ == "__main__":
     manager.run()
