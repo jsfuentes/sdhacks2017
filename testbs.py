@@ -1,7 +1,14 @@
 import time 
 from bs4 import BeautifulSoup 
+from pymongo import MongoClient
 
 import urllib
+
+#preparing the database object that we will use
+client = MongoClient("mongodb://admin:admin1@ds227555.mlab.com:27555/sdhacks2017")
+db = client.sdhacks2017
+collection = db.mynewcollection
+
 
 #constants
 websiteBaseURL = "https://www.handspeak.com"
@@ -15,7 +22,7 @@ def extractVidLinks(soup):
 
 
 flag = True
-i = 1
+i = 0
 
 wordStore = [] 
 linksStore = []
@@ -23,7 +30,7 @@ file = open('link_record.txt', 'w')
 
 while flag and i<10:
 
-	r = urllib.urlopen('https://www.handspeak.com/word/search/index.php?id='+str(i)).read()
+	r = urllib.urlopen('https://www.handspeak.com/word/search/index.php?id='+str(i+1)).read()
 	soup = BeautifulSoup(r,"html.parser")
 
 	#print(type(soup))
@@ -45,12 +52,19 @@ while flag and i<10:
 
 		contents = wordTags[0].string
 		begInd = contents.index(prefix)
-		word = contents[begInd+len(prefix):]
+		word = contents[begInd+len(prefix):] #word
 		linksStore.append(extractVidLinks(soup))
+		link = linksStore[i][0]              #link
 		
-		#print str(i) + ": " + word + "  link: " + linksStore[i-1][0]
+		#Storing one entry to database
+		collection.insert_one({"word":word , "link":link})
 
-		print str(i) + ": " + word
+		#Printing entry to console
+		print str(i+1) + ": " + word
+
+		#Storing entry to file
+		file.write('word: ' + word + "  link: " + link + "\n")
+
 		wordStore[wLen:wLen] =  [word]
 		i += 1
 		if i%100==0:
@@ -60,14 +74,14 @@ while flag and i<10:
 
 
 
-for i in range(0,len(wordStore)): 
-	entry = 'word: ' + wordStore[i] + "  link: " + linksStore[i][0] 
-	print entry
-	file.write(entry+"\n")
+#for i in range(0,len(wordStore)): 
+#	entryToWrite = 'word: ' + wordStore[i] + "  link: " + linksStore[i][0] 
+#	print entry
+#	file.write(entry+"\n")
 
 file.close()	
 
-		#print "span tag: " +  word
+#print "span tag: " +  word
 
 		
 
