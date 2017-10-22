@@ -13,5 +13,9 @@ def index():
 def hello():
     return "Hello World!"
 
+@app.route("/test")
+def test():
+    return render_template("test2.html")
+
 if __name__ == "__main__":
     manager.run()
