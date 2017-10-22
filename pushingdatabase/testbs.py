@@ -33,9 +33,6 @@ while flag:
 	r = urllib.urlopen('https://www.handspeak.com/word/search/index.php?id='+str(i+1)).read()
 	soup = BeautifulSoup(r,"html.parser")
 
-	#print(type(soup))
-	#print(soup.prettify())
-
 	wordTags = soup.find_all('span', itemprop="name")
 
 	prefix = "ASL sign for: "
@@ -47,14 +44,12 @@ while flag:
 		print "There is no tag where <span itemprop='attr' ...> "
 		flag = False 
 	else: #if true then len(wordTags) = 1
-		#wLen = len(wordStore)
-		#lLen = len(linksStore)
+
 
 		contents = wordTags[0].string
 		begInd = contents.index(prefix)
 		word = contents[begInd+len(prefix):] #word
-		#linksStore.append(extractVidLinks(soup))
-		link = extractVidLinks(soup)[0]              #link
+		link = extractVidLinks(soup)[0]      #link
 		
 		#--Storing one entry to database--
 		returnVal = collection.insert_one({"word":word , "link":link})
@@ -65,7 +60,6 @@ while flag:
 		#--Storing entry to file--
 		file.write('word: ' + word + "  link: " + link + "\n")
 
-		#wordStore[wLen:wLen] =  [word]
 		i += 1
 		if i%100==0:
 			print "Sleeping for " + str(SLEEPTIME) + " miliseconds"
