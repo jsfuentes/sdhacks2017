@@ -1,0 +1,1579 @@
+word: distance  link: https://www.handspeak.com/word/d/distance.mp4
+word: wolf  link: https://www.handspeak.com/word/w/wolf.mp4
+word: womanize  link: https://www.handspeak.com/word/w/womanize.mp4
+word: wonder  link: https://www.handspeak.com/word/w/wonder.mp4
+word: wonderful  link: https://www.handspeak.com/word/w/wonderful.mp4
+word: word  link: https://www.handspeak.com/word/w/word.mp4
+word: work  link: https://www.handspeak.com/word/w/work.mp4
+word: hard-working  link: https://www.handspeak.com/word/h/hard-working.mp4
+word: bonus  link: https://www.handspeak.com/word/b/bonus-fs.mp4
+word: workaholic  link: https://www.handspeak.com/word/w/workaholic.mp4
+word: world  link: https://www.handspeak.com/word/w/world.mp4
+word: worry  link: https://www.handspeak.com/word/w/worry.mp4
+word: overthink  link: https://www.handspeak.com/word/o/overthink.mp4
+word: worse  link: https://www.handspeak.com/word/w/worse.mp4
+word: worship  link: https://www.handspeak.com/word/w/worship.mp4
+word: honor  link: https://www.handspeak.com/word/h/honor.mp4
+word: wow  link: https://www.handspeak.com/word/w/wow.mp4
+word: delegate  link: https://www.handspeak.com/word/d/delegate.mp4
+word: wrestle  link: https://www.handspeak.com/word/w/wrestle-action.mp4
+word: write  link: https://www.handspeak.com/word/w/write.mp4
+word: wrong  link: https://www.handspeak.com/word/w/wrong.mp4
+word: xerox  link: https://www.handspeak.com/word/x/xerox.mp4
+word: year  link: https://www.handspeak.com/word/y/year.mp4
+word: yearly  link: https://www.handspeak.com/word/y/yearly.mp4
+word: yell  link: https://www.handspeak.com/word/y/yell.mp4
+word: yellow  link: https://www.handspeak.com/word/y/yellow.mp4
+word: yes  link: https://www.handspeak.com/word/y/yes.mp4
+word: yesterday  link: https://www.handspeak.com/word/y/yesterday.mp4
+word: not yet  link: https://www.handspeak.com/word/n/not-yet.mp4
+word: husbandry  link: https://www.handspeak.com/word/h/husbandry.mp4
+word: wound  link: https://www.handspeak.com/word/w/wound.mp4
+word: you  link: https://www.handspeak.com/word/y/you.mp4
+word: youse  link: https://www.handspeak.com/word/y/you-plu.mp4
+word: between you and me  link: https://www.handspeak.com/word/b/between-you-me.mp4
+word: either-or  link: https://www.handspeak.com/word/e/either-or.mp4
+word: young  link: https://www.handspeak.com/word/y/young.mp4
+word: your  link: https://www.handspeak.com/word/y/your.mp4
+word: yourself  link: https://www.handspeak.com/word/y/yourself.mp4
+word: youth  link: https://www.handspeak.com/word/y/youth.mp4
+word: harm  link: https://www.handspeak.com/word/h/harm.mp4
+word: zebra  link: https://www.handspeak.com/word/z/zebra.mp4
+word: Zen  link: https://www.handspeak.com/word/z/zen.mp4
+word: zero  link: https://www.handspeak.com/word/z/zero.mp4
+word: A  link: https://www.handspeak.com/word/a/a-abc.mp4
+word: B  link: https://www.handspeak.com/word/b/b-abc.mp4
+word: C  link: https://www.handspeak.com/word/c/c-abc.mp4
+word: D  link: https://www.handspeak.com/word/d/d-abc.mp4
+word: E  link: https://www.handspeak.com/word/e/e-abc.mp4
+word: F  link: https://www.handspeak.com/word/f/f-abc.mp4
+word: G  link: https://www.handspeak.com/word/g/g-abc.mp4
+word: H  link: https://www.handspeak.com/word/h/h-abc.mp4
+word: I  link: https://www.handspeak.com/word/i/i-abc.mp4
+word: J  link: https://www.handspeak.com/word/j/j-abc.mp4
+word: K  link: https://www.handspeak.com/word/k/k-abc.mp4
+word: L  link: https://www.handspeak.com/word/l/l-abc.mp4
+word: M  link: https://www.handspeak.com/word/m/m-abc.mp4
+word: N  link: https://www.handspeak.com/word/n/n-abc.mp4
+word: O  link: https://www.handspeak.com/word/o/o-abc.mp4
+word: P  link: https://www.handspeak.com/word/p/p-abc.mp4
+word: Q  link: https://www.handspeak.com/word/q/q-abc.mp4
+word: R  link: https://www.handspeak.com/word/r/r-abc.mp4
+word: S  link: https://www.handspeak.com/word/s/s-abc.mp4
+word: T  link: https://www.handspeak.com/word/t/t-abc.mp4
+word: U  link: https://www.handspeak.com/word/u/u-abc.mp4
+word: V  link: https://www.handspeak.com/word/v/v-abc.mp4
+word: W  link: https://www.handspeak.com/word/w/w-abc.mp4
+word: X  link: https://www.handspeak.com/word/x/x-abc.mp4
+word: Y  link: https://www.handspeak.com/word/y/y-abc.mp4
+word: Z  link: https://www.handspeak.com/word/z/z-abc.mp4
+word: Browse words  link: https://www.handspeak.com/word//.mp4
+word: hair  link: https://www.handspeak.com/word/h/hair.mp4
+word: poetry (signed)  link: https://www.handspeak.com/word/p/poetry.mp4
+word: audism  link: https://www.handspeak.com/word/a/audism2.mp4
+word: dime  link: https://www.handspeak.com/word/d/dime.mp4
+word: Asia  link: https://www.handspeak.com/word/a/asia.mp4
+word: comedy  link: https://www.handspeak.com/word/c/comedy.mp4
+word: cheapskate  link: https://www.handspeak.com/word/c/cheapskate.mp4
+word: oops  link: https://www.handspeak.com/word/o/oops-interj.mp4
+word: everyone  link: https://www.handspeak.com/word/e/everyone.mp4
+word: balance  link: https://www.handspeak.com/word/b/balance.mp4
+word: trip  link: https://www.handspeak.com/word/t/trip.mp4
+word: trip (drug)  link: https://www.handspeak.com/word/t/trip-drug.mp4
+word: object (protest)  link: https://www.handspeak.com/word/o/object-protest.mp4
+word: five cents  link: https://www.handspeak.com/word/f/five-cents.mp4
+word: tooth  link: https://www.handspeak.com/word/t/tooth.mp4
+word: whine  link: https://www.handspeak.com/word/w/whine.mp4
+word: gallery  link: https://www.handspeak.com/word/g/gallery-art.mp4
+word: characters (ideogram)  link: https://www.handspeak.com/word/c/characters-ideogram.mp4
+word: devastated  link: https://www.handspeak.com/word/d/devastated.mp4
+word: depressed  link: https://www.handspeak.com/word/d/depressed.mp4
+word: precious  link: https://www.handspeak.com/word/p/precious.mp4
+word: treasure  link: https://www.handspeak.com/word/t/treasure-chest.mp4
+word: dear  link: https://www.handspeak.com/word/d/dear.mp4
+word: kid  link: https://www.handspeak.com/word/k/kid-child.mp4
+word: doctorate (PhD)  link: https://www.handspeak.com/word/d/doctorate-phd.mp4
+word: confirm  link: https://www.handspeak.com/word/c/confirm-decide.mp4
+word: henna art  link: https://www.handspeak.com/word/h/henna-art.mp4
+word: Disney  link: https://www.handspeak.com/word/d/disney.mp4
+word: carrot  link: https://www.handspeak.com/word/c/carrot.mp4
+word: here and there  link: https://www.handspeak.com/word/h/here-and-there.mp4
+word: bandha  link: https://www.handspeak.com/word/b/bandha.mp4
+word: arranged marriage  link: https://www.handspeak.com/word/a/arranged-marriage.mp4
+word: rupee  link: https://www.handspeak.com/word/r/rupee.mp4
+word: amiable  link: https://www.handspeak.com/word/a/amiable.mp4
+word: cordial  link: https://www.handspeak.com/word/c/cordial.mp4
+word: wary  link: https://www.handspeak.com/word/w/wary.mp4
+word: inexpert  link: https://www.handspeak.com/word/i/inexpert.mp4
+word: step-by-step  link: https://www.handspeak.com/word/s/step-by-step.mp4
+word: Mexico  link: https://www.handspeak.com/word/m/mexico.mp4
+word: Mexican  link: https://www.handspeak.com/word/m/mexico-isl.mp4
+word: cross-examine  link: https://www.handspeak.com/word/c/cross-examine.mp4
+word: therapy  link: https://www.handspeak.com/word/t/therapy.mp4
+word: therapist  link: https://www.handspeak.com/word/t/therapist.mp4
+word: record (break)  link: https://www.handspeak.com/word/r/record-break.mp4
+word: fourth place  link: https://www.handspeak.com/word/f/fourth-place.mp4
+word: how many  link: https://www.handspeak.com/word/h/how-many.mp4
+word: shave  link: https://www.handspeak.com/word/s/shave-chin.mp4
+word: shave head  link: https://www.handspeak.com/word/s/shave-head.mp4
+word: horseplay  link: https://www.handspeak.com/word/h/horseplay.mp4
+word: cakewalk  link: https://www.handspeak.com/word/c/cakewalk.mp4
+word: hood-cloth  link: https://www.handspeak.com/word/h/hood-cloth.mp4
+word: Egypt  link: https://www.handspeak.com/word/e/egypt.mp4
+word: dejected  link: https://www.handspeak.com/word/d/depressed2.mp4
+word: embellish  link: https://www.handspeak.com/word/e/embellish.mp4
+word: decorate  link: https://www.handspeak.com/word/d/decorate.mp4
+word: First Nations  link: https://www.handspeak.com/word/f/first-nations-old.mp4
+word: fifth-place  link: https://www.handspeak.com/word/f/fifth-place.mp4
+word: end  link: https://www.handspeak.com/word/e/end-side.mp4
+word: annul  link: https://www.handspeak.com/word/a/annul.mp4
+word: even  link: https://www.handspeak.com/word/e/even-flat.mp4
+word: equal  link: https://www.handspeak.com/word/e/equal.mp4
+word: equivalent  link: https://www.handspeak.com/word/e/equivalent.mp4
+word: for example  link: https://www.handspeak.com/word/f/for-example.mp4
+word: exhale  link: https://www.handspeak.com/word/e/exhale.mp4
+word: expect  link: https://www.handspeak.com/word/e/expect.mp4
+word: inhale  link: https://www.handspeak.com/word/i/inhale.mp4
+word: intersection  link: https://www.handspeak.com/word/i/intersection.mp4
+word: anticipate  link: https://www.handspeak.com/word/a/anticipate.mp4
+word: donkey  link: https://www.handspeak.com/word/d/donkey.mp4
+word: donkey kick exercises  link: https://www.handspeak.com/word/d/donkey-kick.mp4
+word: earring  link: https://www.handspeak.com/word/e/earring.mp4
+word: dangle  link: https://www.handspeak.com/word/d/dangle.mp4
+word: email marketing  link: https://www.handspeak.com/word/e/email-marketing.mp4
+word: email address  link: https://www.handspeak.com/word/e/email-address.mp4
+word: coin  link: https://www.handspeak.com/word/c/coin.mp4
+word: coins  link: https://www.handspeak.com/word/c/coins.mp4
+word: compare  link: https://www.handspeak.com/word/c/compare.mp4
+word: certify  link: https://www.handspeak.com/word/c/certify.mp4
+word: birth  link: https://www.handspeak.com/word/b/birth.mp4
+word: alcohol  link: https://www.handspeak.com/word/a/alcoholic.mp4
+word: available  link: https://www.handspeak.com/word/a/available.mp4
+word: advise  link: https://www.handspeak.com/word/a/advise2.mp4
+word: accent  link: https://www.handspeak.com/word/a/accent.mp4
+word: spend  link: https://www.handspeak.com/word/s/spend-money.mp4
+word: passport  link: https://www.handspeak.com/word/p/passport.mp4
+word: credit card  link: https://www.handspeak.com/word/c/credit-card.mp4
+word: cellphone  link: https://www.handspeak.com/word/c/cellphone-stobiecka.mp4
+word: PageRank  link: https://www.handspeak.com/word/p/pagerank.mp4
+word: send  link: https://www.handspeak.com/word/s/send.mp4
+word: pager  link: https://www.handspeak.com/word/p/pager.mp4
+word: bindi  link: https://www.handspeak.com/word/b/bindi.mp4
+word: spouse  link: https://www.handspeak.com/word/s/spouse2.mp4
+word: oust  link: https://www.handspeak.com/word/o/oust.mp4
+word: behave  link: https://www.handspeak.com/word/b/behave.mp4
+word: braces (dental)  link: https://www.handspeak.com/word/b/brace-teeth.mp4
+word: behindhand  link: https://www.handspeak.com/word/b/behind-delay.mp4
+word: mandatory  link: https://www.handspeak.com/word/m/mandatory.mp4
+word: haircut  link: https://www.handspeak.com/word/h/haircut.mp4
+word: hairsplitting  link: https://www.handspeak.com/word/h/hairsplitting.mp4
+word: tender  link: https://www.handspeak.com/word/t/tender-soft.mp4
+word: gentle  link: https://www.handspeak.com/word/g/gentle-pet.mp4
+word: will (document)  link: https://www.handspeak.com/word/w/will-fs.mp4
+word: breasts  link: https://www.handspeak.com/word/b/breasts.mp4
+word: granddaughter  link: https://www.handspeak.com/word/g/granddaughter.mp4
+word: grandson  link: https://www.handspeak.com/word/g/grandson.mp4
+word: excessive  link: https://www.handspeak.com/word/e/excessive.mp4
+word: ballistic  link: https://www.handspeak.com/word/b/ballistic-emotion.mp4
+word: board (wood)  link: https://www.handspeak.com/word/b/board-wood.mp4
+word: French braid  link: https://www.handspeak.com/word/f/french-braid.mp4
+word: braid (hair)  link: https://www.handspeak.com/word/b/braid-hair.mp4
+word: holy  link: https://www.handspeak.com/word/h/holy.mp4
+word: dawn on  link: https://www.handspeak.com/word/d/dawn-perceived.mp4
+word: copy  link: https://www.handspeak.com/word/c/copy.mp4
+word: aboriginal  link: https://www.handspeak.com/word/a/aboriginal.mp4
+word: Inuit  link: https://www.handspeak.com/word/i/inuit.mp4
+word: fatty  link: https://www.handspeak.com/word/f/fatty.mp4
+word: forecast  link: https://www.handspeak.com/word/f/forecast.mp4
+word: gray hair  link: https://www.handspeak.com/word/g/gray-hair.mp4
+word: Cuba  link: https://www.handspeak.com/word/c/cuba.mp4
+word: cool (weather)  link: https://www.handspeak.com/word/c/cool-weather.mp4
+word: engage  link: https://www.handspeak.com/word/e/engage-marry.mp4
+word: bunny  link: https://www.handspeak.com/word/b/bunny.mp4
+word: glass ceiling  link: https://www.handspeak.com/word/g/glass-ceiling.mp4
+word: learning curve  link: https://www.handspeak.com/word/l/learning-curve.mp4
+word: learning style  link: https://www.handspeak.com/word/l/learning-style.mp4
+word: listen-not (2)  link: https://www.handspeak.com/word/l/listen-not2.mp4
+word: lonely  link: https://www.handspeak.com/word/l/lonely.mp4
+word: nothing at all  link: https://www.handspeak.com/word/n/nothing-absolutely.mp4
+word: long time  link: https://www.handspeak.com/word/l/long-very.mp4
+word: guy  link: https://www.handspeak.com/word/g/guy.mp4
+word: bicultural  link: https://www.handspeak.com/word/b/bicultural.mp4
+word: nail clipper  link: https://www.handspeak.com/word/n/nail-cutter.mp4
+word: nailpolish  link: https://www.handspeak.com/word/n/nailpolish.mp4
+word: near  link: https://www.handspeak.com/word/n/near.mp4
+word: thereabouts  link: https://www.handspeak.com/word/t/thereabouts.mp4
+word: glow  link: https://www.handspeak.com/word/g/glowing.mp4
+word: record (document)  link: https://www.handspeak.com/word/r/record.mp4
+word: referee  link: https://www.handspeak.com/word/r/referee.mp4
+word: refute  link: https://www.handspeak.com/word/r/refute.mp4
+word: saint  link: https://www.handspeak.com/word/s/saint-holy.mp4
+word: salary  link: https://www.handspeak.com/word/s/salary.mp4
+word: same  link: https://www.handspeak.com/word/s/same-also.mp4
+word: selfish  link: https://www.handspeak.com/word/s/selfish.mp4
+word: shine  link: https://www.handspeak.com/word/s/shine.mp4
+word: skeleton  link: https://www.handspeak.com/word/s/skeleton.mp4
+word: skeleton (ribs)  link: https://www.handspeak.com/word/s/skeleton-ribs.mp4
+word: spill  link: https://www.handspeak.com/word/s/spill.mp4
+word: third  link: https://www.handspeak.com/word/t/third.mp4
+word: one day  link: https://www.handspeak.com/word/o/one-day.mp4
+word: overfull  link: https://www.handspeak.com/word/o/overfull.mp4
+word: stretch  link: https://www.handspeak.com/word/s/stretch.mp4
+word: sweat  link: https://www.handspeak.com/word/s/sweat.mp4
+word: television (TV)  link: https://www.handspeak.com/word/t/television-tv.mp4
+word: third-place  link: https://www.handspeak.com/word/t/third-place.mp4
+word: secondhand  link: https://www.handspeak.com/word/s/secondhand.mp4
+word: click through  link: https://www.handspeak.com/word/c/click-through-ad.mp4
+word: neato  link: https://www.handspeak.com/word/n/neato.mp4
+word: visa  link: https://www.handspeak.com/word/v/visa-passport.mp4
+word: passport stamp  link: https://www.handspeak.com/word/p/passport-stamp.mp4
+word: whistle  link: https://www.handspeak.com/word/w/whistle.mp4
+word: write down  link: https://www.handspeak.com/word/w/write-down.mp4
+word: family tree  link: https://www.handspeak.com/word/f/family-tree.mp4
+word: binary digit  link: https://www.handspeak.com/word/b/binary-digit.mp4
+word: teeth  link: https://www.handspeak.com/word/t/teeth.mp4
+word: thunder  link: https://www.handspeak.com/word/t/thunder.mp4
+word: speech anxiety  link: https://www.handspeak.com/word/s/speech-anxiety.mp4
+word: speechless  link: https://www.handspeak.com/word/s/speechless2.mp4
+word: inject  link: https://www.handspeak.com/word/i/inject.mp4
+word: stomach  link: https://www.handspeak.com/word/s/stomach.mp4
+word: steal  link: https://www.handspeak.com/word/s/steal.mp4
+word: Argentina  link: https://www.handspeak.com/word/a/argentina.mp4
+word: fingerspell  link: https://www.handspeak.com/word/f/fingerspell.mp4
+word: mood  link: https://www.handspeak.com/word/m/mood.mp4
+word: hand pick  link: https://www.handspeak.com/word/h/hand-pick.mp4
+word: restroom  link: https://www.handspeak.com/word/r/restroom-toilet.mp4
+word: page  link: https://www.handspeak.com/word/p/page2.mp4
+word: others  link: https://www.handspeak.com/word/o/others2.mp4
+word: nose ring  link: https://www.handspeak.com/word/n/nose-ring.mp4
+word: Native American  link: https://www.handspeak.com/word/n/native-americanF-5.mp4
+word: mooch  link: https://www.handspeak.com/word/m/mooch.mp4
+word: blanket  link: https://www.handspeak.com/word/b/blanket.mp4
+word: homework  link: https://www.handspeak.com/word/h/homework.mp4
+word: dinner  link: https://www.handspeak.com/word/d/dinner.mp4
+word: our  link: https://www.handspeak.com/word/o/our.mp4
+word: all day  link: https://www.handspeak.com/word/a/all-day.mp4
+word: two weeks  link: https://www.handspeak.com/word/t/two-weeks.mp4
+word: three days  link: https://www.handspeak.com/word/t/three-days.mp4
+word: daily  link: https://www.handspeak.com/word/d/daily.mp4
+word: three weeks  link: https://www.handspeak.com/word/t/three-weeks.mp4
+word: dumb  link: https://www.handspeak.com/word/d/dumb.mp4
+word: two minutes  link: https://www.handspeak.com/word/t/two-minutes.mp4
+word: American  link: https://www.handspeak.com/word/a/american.mp4
+word: Canadian  link: https://www.handspeak.com/word/c/canadian.mp4
+word: bimonthly  link: https://www.handspeak.com/word/b/bimonthly.mp4
+word: biyearly  link: https://www.handspeak.com/word/b/biyearly.mp4
+word: biweekly  link: https://www.handspeak.com/word/b/biweekly.mp4
+word: box  link: https://www.handspeak.com/word/b/box.mp4
+word:   link: https://www.handspeak.com/word/0/two-months.mp4
+word: seven months  link: https://www.handspeak.com/word/s/seven-months.mp4
+word: mountain  link: https://www.handspeak.com/word/m/mountain.mp4
+word: overnight  link: https://www.handspeak.com/word/o/overnight.mp4
+word: cereal  link: https://www.handspeak.com/word/c/cereal.mp4
+word: unaccompanied  link: https://www.handspeak.com/word/u/unaccompanied.mp4
+word: exponential  link: https://www.handspeak.com/word/e/exponential.mp4
+word: banal  link: https://www.handspeak.com/word/b/banal.mp4
+word: shred  link: https://www.handspeak.com/word/s/shred.mp4
+word: Hanukkah  link: https://www.handspeak.com/word/h/hannukhah.mp4
+word: parrot  link: https://www.handspeak.com/word/p/parrot.mp4
+word: blank  link: https://www.handspeak.com/word/b/blank-field.mp4
+word: sticky  link: https://www.handspeak.com/word/s/sticky.mp4
+word: grandchild  link: https://www.handspeak.com/word/g/grandchild.mp4
+word: peeler  link: https://www.handspeak.com/word/p/peeler.mp4
+word: peel off  link: https://www.handspeak.com/word/p/peel-off.mp4
+word: context  link: https://www.handspeak.com/word/c/context.mp4
+word: deduct  link: https://www.handspeak.com/word/d/deduct.mp4
+word: debit  link: https://www.handspeak.com/word/d/debit-bank.mp4
+word: disgusted  link: https://www.handspeak.com/word/d/disgusting.mp4
+word: gross  link: https://www.handspeak.com/word/g/gross-lee-wingfield.mp4
+word: yucky  link: https://www.handspeak.com/word/y/yucky.mp4
+word: measure  link: https://www.handspeak.com/word/m/measure.mp4
+word: behead  link: https://www.handspeak.com/word/b/behead.mp4
+word: lord  link: https://www.handspeak.com/word/l/lord.mp4
+word: smack-thank  link: https://www.handspeak.com/word/s/smack-thank.mp4
+word: turban  link: https://www.handspeak.com/word/t/turban.mp4
+word: jet  link: https://www.handspeak.com/word/j/jet-plane.mp4
+word: jungle  link: https://www.handspeak.com/word/j/jungle.mp4
+word: past  link: https://www.handspeak.com/word/p/past.mp4
+word: boom  link: https://www.handspeak.com/word/b/boom-grow2.mp4
+word: their  link: https://www.handspeak.com/word/t/their.mp4
+word: motivated  link: https://www.handspeak.com/word/m/motivated.mp4
+word: receipt  link: https://www.handspeak.com/word/r/receipt.mp4
+word: savior  link: https://www.handspeak.com/word/s/savior.mp4
+word: sausage  link: https://www.handspeak.com/word/s/sausage.mp4
+word: flesh  link: https://www.handspeak.com/word/f/flesh.mp4
+word: asking price  link: https://www.handspeak.com/word/a/asking-price.mp4
+word: ask for it  link: https://www.handspeak.com/word/a/ask-for-it.mp4
+word: salami  link: https://www.handspeak.com/word/s/salami.mp4
+word: cut  link: https://www.handspeak.com/word/c/cut-incise.mp4
+word: saw  link: https://www.handspeak.com/word/s/saw-cut.mp4
+word: shuffle  link: https://www.handspeak.com/word/s/shuffle-walk.mp4
+word: violin  link: https://www.handspeak.com/word/v/violin.mp4
+word: zoom  link: https://www.handspeak.com/word/z/zoom.mp4
+word: bong (pipe)  link: https://www.handspeak.com/word/b/bong-drug.mp4
+word: streetcar  link: https://www.handspeak.com/word/s/streetcar.mp4
+word: tram  link: https://www.handspeak.com/word/t/tram.mp4
+word: transparent  link: https://www.handspeak.com/word/t/transparent.mp4
+word: bus  link: https://www.handspeak.com/word/b/bus.mp4
+word: pendant  link: https://www.handspeak.com/word/p/pendant-necklace.mp4
+word: necklace  link: https://www.handspeak.com/word/n/necklace.mp4
+word: enmity  link: https://www.handspeak.com/word/e/enmity.mp4
+word: hamburger  link: https://www.handspeak.com/word/h/hamburger.mp4
+word: assist  link: https://www.handspeak.com/word/a/assist.mp4
+word: assistant  link: https://www.handspeak.com/word/a/assistant.mp4
+word: auralcentric  link: https://www.handspeak.com/word/a/auralcentric.mp4
+word: bridge  link: https://www.handspeak.com/word/b/bridge.mp4
+word: baptism  link: https://www.handspeak.com/word/b/baptism.mp4
+word: come out  link: https://www.handspeak.com/word/c/come-out-lgbt.mp4
+word: beat (strike)  link: https://www.handspeak.com/word/b/beat-hit.mp4
+word: brownout  link: https://www.handspeak.com/word/b/brownout.mp4
+word: find  link: https://www.handspeak.com/word/f/find.mp4
+word: eyeglasses  link: https://www.handspeak.com/word/e/eyeglasses.mp4
+word: Indian  link: https://www.handspeak.com/word/i/india2.mp4
+word: Italy  link: https://www.handspeak.com/word/i/italy.mp4
+word: melt  link: https://www.handspeak.com/word/m/melt.mp4
+word: present (show)  link: https://www.handspeak.com/word/p/presentation2.mp4
+word: naughty  link: https://www.handspeak.com/word/n/naughty.mp4
+word: mischievous  link: https://www.handspeak.com/word/m/mischievous.mp4
+word: niece  link: https://www.handspeak.com/word/n/niece.mp4
+word: nephew  link: https://www.handspeak.com/word/n/nephew.mp4
+word: ocularcentric  link: https://www.handspeak.com/word/o/ocularcentric.mp4
+word: oralcentric  link: https://www.handspeak.com/word/o/oral-auralcentric.mp4
+word: oralism  link: https://www.handspeak.com/word/o/oralism.mp4
+word: several  link: https://www.handspeak.com/word/s/several.mp4
+word: scrape  link: https://www.handspeak.com/word/s/scrape.mp4
+word: short notice  link: https://www.handspeak.com/word/s/short-notice.mp4
+word: soda  link: https://www.handspeak.com/word/s/soda.mp4
+word: sleepyhead  link: https://www.handspeak.com/word/s/sleepyhead.mp4
+word: skill  link: https://www.handspeak.com/word/s/skill.mp4
+word: skillful  link: https://www.handspeak.com/word/s/skillful.mp4
+word: team  link: https://www.handspeak.com/word/t/team.mp4
+word: temperature  link: https://www.handspeak.com/word/t/temperature.mp4
+word: upstairs  link: https://www.handspeak.com/word/u/upstairs.mp4
+word: quadrennial  link: https://www.handspeak.com/word/q/quadrennial.mp4
+word: summary  link: https://www.handspeak.com/word/s/summary.mp4
+word: aforementioned  link: https://www.handspeak.com/word/a/aforementioned.mp4
+word: thereby  link: https://www.handspeak.com/word/t/thereby.mp4
+word: there  link: https://www.handspeak.com/word/t/there-l.mp4
+word: collect  link: https://www.handspeak.com/word/c/collect.mp4
+word: tomato sauce  link: https://www.handspeak.com/word/t/tomato-sauce.mp4
+word: California  link: https://www.handspeak.com/word/c/california.mp4
+word: autumn  link: https://www.handspeak.com/word/a/autumn.mp4
+word: shortcut  link: https://www.handspeak.com/word/s/shortcut.mp4
+word: bake  link: https://www.handspeak.com/word/b/bake-oven.mp4
+word: gasoline  link: https://www.handspeak.com/word/g/gasoline.mp4
+word: gas  link: https://www.handspeak.com/word/g/gas-fs.mp4
+word: that  link: https://www.handspeak.com/word/t/that.mp4
+word: that (determiner)  link: https://www.handspeak.com/word/t/that-here.mp4
+word: that!  link: https://www.handspeak.com/word/t/that-there.mp4
+word: is that so  link: https://www.handspeak.com/word/i/is-that-so.mp4
+word: this  link: https://www.handspeak.com/word/t/this.mp4
+word: file (folder)  link: https://www.handspeak.com/word/f/file-folder.mp4
+word: corn  link: https://www.handspeak.com/word/c/corn.mp4
+word: corny  link: https://www.handspeak.com/word/c/corny.mp4
+word: buffalo  link: https://www.handspeak.com/word/b/buffalo.mp4
+word: ox  link: https://www.handspeak.com/word/o/ox-fs.mp4
+word: apostrophe  link: https://www.handspeak.com/word/a/apostrophe.mp4
+word: rotten  link: https://www.handspeak.com/word/r/rotten.mp4
+word: goat  link: https://www.handspeak.com/word/g/goat.mp4
+word: wink  link: https://www.handspeak.com/word/w/wink.mp4
+word: age  link: https://www.handspeak.com/word/a/age.mp4
+word: snake  link: https://www.handspeak.com/word/s/snake.mp4
+word: lizard  link: https://www.handspeak.com/word/l/lizard.mp4
+word: wood  link: https://www.handspeak.com/word/w/wood.mp4
+word: recognize  link: https://www.handspeak.com/word/r/recognize.mp4
+word: servant  link: https://www.handspeak.com/word/s/servant.mp4
+word: peach  link: https://www.handspeak.com/word/p/peach.mp4
+word: gas station  link: https://www.handspeak.com/word/g/gas-station.mp4
+word: forest  link: https://www.handspeak.com/word/f/forest.mp4
+word: forest fire  link: https://www.handspeak.com/word/f/forest2.mp4
+word: sociolinguistics  link: https://www.handspeak.com/word/s/sociolinguistics.mp4
+word: fly  link: https://www.handspeak.com/word/f/fly-pathline.mp4
+word: obsessive  link: https://www.handspeak.com/word/o/obsessive.mp4
+word: oh I see  link: https://www.handspeak.com/word/o/oh-i-see2.mp4
+word: oversensitive  link: https://www.handspeak.com/word/o/oversensitive.mp4
+word: touchy  link: https://www.handspeak.com/word/t/touchy.mp4
+word: foresee  link: https://www.handspeak.com/word/f/foresee.mp4
+word: sand  link: https://www.handspeak.com/word/s/sand-beach.mp4
+word: long ago  link: https://www.handspeak.com/word/l/long-ago.mp4
+word: long stay  link: https://www.handspeak.com/word/l/long-stay.mp4
+word: drown  link: https://www.handspeak.com/word/d/drown.mp4
+word: sink (seacraft)  link: https://www.handspeak.com/word/s/sink-seacraft.mp4
+word: sloppy  link: https://www.handspeak.com/word/s/sloppy.mp4
+word: carefree  link: https://www.handspeak.com/word/c/carefree-mind.mp4
+word: day care  link: https://www.handspeak.com/word/d/daycare-fs.mp4
+word: careless  link: https://www.handspeak.com/word/c/careless.mp4
+word: ampersand  link: https://www.handspeak.com/word/a/ampersand.mp4
+word: adultery  link: https://www.handspeak.com/word/a/adultery.mp4
+word: imply  link: https://www.handspeak.com/word/i/imply-seem.mp4
+word: seem  link: https://www.handspeak.com/word/s/seem.mp4
+word: shade  link: https://www.handspeak.com/word/s/shade.mp4
+word: shadow  link: https://www.handspeak.com/word/s/shadow.mp4
+word: wheeze  link: https://www.handspeak.com/word/w/wheeze.mp4
+word: snore  link: https://www.handspeak.com/word/s/snore.mp4
+word: spider  link: https://www.handspeak.com/word/s/spider.mp4
+word: slave  link: https://www.handspeak.com/word/s/slave-labour.mp4
+word: immolate  link: https://www.handspeak.com/word/i/immolate.mp4
+word: sacrifice  link: https://www.handspeak.com/word/s/sacrifice.mp4
+word: set  link: https://www.handspeak.com/word/s/set.mp4
+word: set up  link: https://www.handspeak.com/word/s/set-up.mp4
+word: sing  link: https://www.handspeak.com/word/s/sing.mp4
+word: beer  link: https://www.handspeak.com/word/b/beer.mp4
+word: lightheaded  link: https://www.handspeak.com/word/l/lightheaded.mp4
+word: dizzy  link: https://www.handspeak.com/word/d/dizzy.mp4
+word: park (land)  link: https://www.handspeak.com/word/p/park-land.mp4
+word: accurate  link: https://www.handspeak.com/word/a/accurate.mp4
+word: stereotype  link: https://www.handspeak.com/word/s/stereotype.mp4
+word: refer  link: https://www.handspeak.com/word/r/refer.mp4
+word: label  link: https://www.handspeak.com/word/l/label.mp4
+word: reputation  link: https://www.handspeak.com/word/r/reputation.mp4
+word: withdraw  link: https://www.handspeak.com/word/w/withdraw.mp4
+word: pollution  link: https://www.handspeak.com/word/p/pollution.mp4
+word: reference letter  link: https://www.handspeak.com/word/r/reference-letter.mp4
+word: recommend  link: https://www.handspeak.com/word/r/recommend2.mp4
+word: bellow  link: https://www.handspeak.com/word/b/bellow.mp4
+word: boom town  link: https://www.handspeak.com/word/b/boom-town.mp4
+word: training  link: https://www.handspeak.com/word/t/train-teach.mp4
+word: hand  link: https://www.handspeak.com/word/h/hands.mp4
+word: manual  link: https://www.handspeak.com/word/m/manual.mp4
+word: elope  link: https://www.handspeak.com/word/e/elope.mp4
+word: turn-taking  link: https://www.handspeak.com/word/t/take-turns2.mp4
+word: document  link: https://www.handspeak.com/word/d/document.mp4
+word: bag  link: https://www.handspeak.com/word/b/bag.mp4
+word: baggage  link: https://www.handspeak.com/word/b/baggage.mp4
+word: Deafhood  link: https://www.handspeak.com/word/d/deafhood.mp4
+word: Deaf-centric  link: https://www.handspeak.com/word/d/deaf-centric.mp4
+word: documents  link: https://www.handspeak.com/word/d/documents.mp4
+word: resentful  link: https://www.handspeak.com/word/r/resentful-bitter.mp4
+word: dye  link: https://www.handspeak.com/word/d/dye.mp4
+word: hair coloring  link: https://www.handspeak.com/word/h/hair-coloring.mp4
+word: truth  link: https://www.handspeak.com/word/t/truth.mp4
+word: presence  link: https://www.handspeak.com/word/p/presence.mp4
+word: tonsillectomy  link: https://www.handspeak.com/word/t/tonsillectomy.mp4
+word: hamster  link: https://www.handspeak.com/word/h/hamster.mp4
+word: virgin  link: https://www.handspeak.com/word/v/virgin.mp4
+word: rat (animal)  link: https://www.handspeak.com/word/r/rat-animal.mp4
+word: winter  link: https://www.handspeak.com/word/w/winter.mp4
+word: winter solstice  link: https://www.handspeak.com/word/w/winter-solstice.mp4
+word: reign  link: https://www.handspeak.com/word/r/reign.mp4
+word: photograph  link: https://www.handspeak.com/word/p/photograph.mp4
+word: disneyland  link: https://www.handspeak.com/word/d/disneyland.mp4
+word: brat  link: https://www.handspeak.com/word/b/brat.mp4
+word: guffaw  link: https://www.handspeak.com/word/g/guffaw.mp4
+word: giggle  link: https://www.handspeak.com/word/g/giggle.mp4
+word: puppet  link: https://www.handspeak.com/word/p/puppet.mp4
+word: roommate  link: https://www.handspeak.com/word/r/roommate.mp4
+word: light (weight)  link: https://www.handspeak.com/word/l/light-weight.mp4
+word: paperweight  link: https://www.handspeak.com/word/p/paperweight.mp4
+word: contextual  link: https://www.handspeak.com/word/c/context-dependent.mp4
+word: kind  link: https://www.handspeak.com/word/k/kind-type.mp4
+word: bias  link: https://www.handspeak.com/word/b/bias.mp4
+word: grandchildren  link: https://www.handspeak.com/word/g/grandchildren.mp4
+word: rape  link: https://www.handspeak.com/word/r/rape.mp4
+word: tremble  link: https://www.handspeak.com/word/t/tremble.mp4
+word: pure  link: https://www.handspeak.com/word/p/pure.mp4
+word: flawless  link: https://www.handspeak.com/word/f/flawless.mp4
+word: kind of  link: https://www.handspeak.com/word/k/kind-of.mp4
+word: kind-hearted  link: https://www.handspeak.com/word/k/kind-hearted.mp4
+word: help yourself  link: https://www.handspeak.com/word/h/help-yourself.mp4
+word: helpful  link: https://www.handspeak.com/word/h/helpful.mp4
+word: aid  link: https://www.handspeak.com/word/a/aid.mp4
+word: gorilla  link: https://www.handspeak.com/word/g/gorilla.mp4
+word: nomadic  link: https://www.handspeak.com/word/n/nomadic.mp4
+word: rooster  link: https://www.handspeak.com/word/r/rooster.mp4
+word: wireless router  link: https://www.handspeak.com/word/w/wireless-router.mp4
+word: router  link: https://www.handspeak.com/word/r/router-tech.mp4
+word: hieroglyphs  link: https://www.handspeak.com/word/h/hieroglyphic.mp4
+word: patriarchy  link: https://www.handspeak.com/word/p/patriarchy.mp4
+word: curtain  link: https://www.handspeak.com/word/c/curtain.mp4
+word: magician  link: https://www.handspeak.com/word/m/magician.mp4
+word: waterfall  link: https://www.handspeak.com/word/w/waterfalls.mp4
+word: wave (water)  link: https://www.handspeak.com/word/w/waves-water.mp4
+word: wave (greeting)  link: https://www.handspeak.com/word/w/wave-hand.mp4
+word: waves (shape)  link: https://www.handspeak.com/word/w/waves-shape.mp4
+word: camel clutch  link: https://www.handspeak.com/word/c/camel-clutch.mp4
+word: survive  link: https://www.handspeak.com/word/s/survive.mp4
+word: survivor  link: https://www.handspeak.com/word/s/survivor.mp4
+word: boots  link: https://www.handspeak.com/word/b/boots-footwear.mp4
+word: tee-shirt  link: https://www.handspeak.com/word/t/t-shirt.mp4
+word: Singapore  link: https://www.handspeak.com/word/s/singapore.mp4
+word: poignant  link: https://www.handspeak.com/word/p/poignant-touching.mp4
+word: Macau  link: https://www.handspeak.com/word/m/macau.mp4
+word: Chile  link: https://www.handspeak.com/word/c/chile.mp4
+word: Jamaica  link: https://www.handspeak.com/word/j/jamaica.mp4
+word: Iceland  link: https://www.handspeak.com/word/i/iceland.mp4
+word: Greenland  link: https://www.handspeak.com/word/g/greenland.mp4
+word: Kenya  link: https://www.handspeak.com/word/k/kenya.mp4
+word: cabbage  link: https://www.handspeak.com/word/c/cabbage.mp4
+word: plum  link: https://www.handspeak.com/word/p/plum-psl.mp4
+word: sock  link: https://www.handspeak.com/word/s/sock-wear.mp4
+word: text  link: https://www.handspeak.com/word/t/text.mp4
+word: visualize  link: https://www.handspeak.com/word/v/visualization.mp4
+word: unimaginable  link: https://www.handspeak.com/word/u/unimaginable.mp4
+word: image  link: https://www.handspeak.com/word/i/image.mp4
+word: pictograph  link: https://www.handspeak.com/word/p/pictograph.mp4
+word: ideograph  link: https://www.handspeak.com/word/i/.mp4
+word: illustration  link: https://www.handspeak.com/word/i/illustration.mp4
+word: absurd  link: https://www.handspeak.com/word/a/absurd.mp4
+word: linguistics  link: https://www.handspeak.com/word/l/linguistics.mp4
+word: pixels  link: https://www.handspeak.com/word/p/pixels.mp4
+word: pop (drink)  link: https://www.handspeak.com/word/p/pop-drink.mp4
+word: picnic  link: https://www.handspeak.com/word/p/picnic.mp4
+word: video  link: https://www.handspeak.com/word/v/video.mp4
+word: today  link: https://www.handspeak.com/word/t/today.mp4
+word: clay  link: https://www.handspeak.com/word/c/clay-fs.mp4
+word: synesthesia  link: https://www.handspeak.com/word/s/synesthesia.mp4
+word: Audism Unveiled  link: https://www.handspeak.com/word/a/audism-unveiled.mp4
+word: ancient  link: https://www.handspeak.com/word/a/ancient.mp4
+word: anywhere  link: https://www.handspeak.com/word/a/anywhere.mp4
+word: Alberta  link: https://www.handspeak.com/word/a/alberta.mp4
+word: alumni  link: https://www.handspeak.com/word/a/alumni.mp4
+word: hierarchy  link: https://www.handspeak.com/word/h/hierarchy.mp4
+word: complementarity  link: https://www.handspeak.com/word/c/complementarity.mp4
+word: dreamcatcher  link: https://www.handspeak.com/word/d/dreamcatcher.mp4
+word: think-tank  link: https://www.handspeak.com/word/t/think-tank2.mp4
+word: iconoclasm  link: https://www.handspeak.com/word/i/iconoclasm.mp4
+word: iconography  link: https://www.handspeak.com/word/i/iconography.mp4
+word: option  link: https://www.handspeak.com/word/o/option.mp4
+word: alternative  link: https://www.handspeak.com/word/a/alternative.mp4
+word: identity  link: https://www.handspeak.com/word/i/identity.mp4
+word: identify  link: https://www.handspeak.com/word/i/identify.mp4
+word: logocentrism  link: https://www.handspeak.com/word/l/logocentrism.mp4
+word: Mobius strip  link: https://www.handspeak.com/word/m/mobius-strip.mp4
+word: margin  link: https://www.handspeak.com/word/m/margin-center.mp4
+word: marginalization  link: https://www.handspeak.com/word/m/marginalization.mp4
+word: Hollywood  link: https://www.handspeak.com/word/h/hollywood.mp4
+word: consume  link: https://www.handspeak.com/word/c/consume.mp4
+word: guzzle  link: https://www.handspeak.com/word/g/guzzle-eat.mp4
+word: ingest  link: https://www.handspeak.com/word/i/ingest.mp4
+word: chomp  link: https://www.handspeak.com/word/c/chomp.mp4
+word: customer  link: https://www.handspeak.com/word/c/customer.mp4
+word: biology  link: https://www.handspeak.com/word/b/biology.mp4
+word: demote  link: https://www.handspeak.com/word/d/demote.mp4
+word: method  link: https://www.handspeak.com/word/m/method.mp4
+word: materials  link: https://www.handspeak.com/word/m/materials.mp4
+word: undecidable  link: https://www.handspeak.com/word/u/undecidable.mp4
+word: festival  link: https://www.handspeak.com/word/f/festival.mp4
+word: universal  link: https://www.handspeak.com/word/u/universal.mp4
+word: library  link: https://www.handspeak.com/word/l/library.mp4
+word: phonology  link: https://www.handspeak.com/word/p/phonology.mp4
+word: superior  link: https://www.handspeak.com/word/s/superior.mp4
+word: supplementarity  link: https://www.handspeak.com/word/s/supplementarity.mp4
+word: scubadiving  link: https://www.handspeak.com/word/s/scubadiving.mp4
+word: belong to  link: https://www.handspeak.com/word/b/belong-to.mp4
+word: overall  link: https://www.handspeak.com/word/o/overall.mp4
+word: crunch  link: https://www.handspeak.com/word/c/crunch-eat.mp4
+word: popcorn  link: https://www.handspeak.com/word/p/popcorn.mp4
+word: shutter (photo)  link: https://www.handspeak.com/word/s/shutter-photo.mp4
+word: shutter (window)  link: https://www.handspeak.com/word/s/shutter-window.mp4
+word: aperture  link: https://www.handspeak.com/word/a/aperture-photo.mp4
+word: diamond  link: https://www.handspeak.com/word/d/diamond-gem.mp4
+word: tape drive  link: https://www.handspeak.com/word/t/tape-video.mp4
+word: devil  link: https://www.handspeak.com/word/d/devil.mp4
+word: mattress  link: https://www.handspeak.com/word/m/mattress.mp4
+word: host  link: https://www.handspeak.com/word/h/host-event.mp4
+word: stack  link: https://www.handspeak.com/word/s/stack-pile.mp4
+word: screen (monitor)  link: https://www.handspeak.com/word/s/screen-monitor.mp4
+word: former  link: https://www.handspeak.com/word/f/former.mp4
+word: resolution  link: https://www.handspeak.com/word/r/resolution-screen.mp4
+word: bandage  link: https://www.handspeak.com/word/b/bandage.mp4
+word: sensation  link: https://www.handspeak.com/word/s/sensation.mp4
+word: bison  link: https://www.handspeak.com/word/b/bison.mp4
+word: owner's equity  link: https://www.handspeak.com/word/o/owner-equity.mp4
+word: track record  link: https://www.handspeak.com/word/t/track-record.mp4
+word: bra  link: https://www.handspeak.com/word/b/bra.mp4
+word: underwear  link: https://www.handspeak.com/word/u/underwear.mp4
+word: menstruation  link: https://www.handspeak.com/word/m/menstruation.mp4
+word: playground  link: https://www.handspeak.com/word/p/playground.mp4
+word: barrier  link: https://www.handspeak.com/word/b/barrier.mp4
+word: block  link: https://www.handspeak.com/word/b/block-barrier.mp4
+word: turkey  link: https://www.handspeak.com/word/t/turkey.mp4
+word: cold turkey  link: https://www.handspeak.com/word/c/cold-turkey.mp4
+word: knit  link: https://www.handspeak.com/word/k/knit.mp4
+word: crochet  link: https://www.handspeak.com/word/c/crochet.mp4
+word: exact  link: https://www.handspeak.com/word/e/exact.mp4
+word: impeccable  link: https://www.handspeak.com/word/i/impeccable.mp4
+word: guitar  link: https://www.handspeak.com/word/g/guitar.mp4
+word: harp  link: https://www.handspeak.com/word/h/harp.mp4
+word: drum  link: https://www.handspeak.com/word/d/drum.mp4
+word: percussion  link: https://www.handspeak.com/word/p/percussion.mp4
+word: reprint  link: https://www.handspeak.com/word/r/reprint.mp4
+word: satellite  link: https://www.handspeak.com/word/s/satellite.mp4
+word: laugh  link: https://www.handspeak.com/word/l/laugh.mp4
+word: laughing stock  link: https://www.handspeak.com/word/l/laughing-stock.mp4
+word: cinema  link: https://www.handspeak.com/word/c/cinema-movie.mp4
+word: film  link: https://www.handspeak.com/word/f/film.mp4
+word: sequence  link: https://www.handspeak.com/word/s/sequence.mp4
+word: role  link: https://www.handspeak.com/word/r/role.mp4
+word: function  link: https://www.handspeak.com/word/f/function.mp4
+word: media  link: https://www.handspeak.com/word/m/media.mp4
+word: slide show  link: https://www.handspeak.com/word/s/slide-show.mp4
+word: slide  link: https://www.handspeak.com/word/s/slide-slip.mp4
+word: slither  link: https://www.handspeak.com/word/s/slither.mp4
+word: pigtail  link: https://www.handspeak.com/word/p/pigtail-hair.mp4
+word: spendthrift  link: https://www.handspeak.com/word/s/spendthrift.mp4
+word: Iran  link: https://www.handspeak.com/word/i/iran.mp4
+word: Ukraine  link: https://www.handspeak.com/word/u/ukraine.mp4
+word: Romania  link: https://www.handspeak.com/word/r/romania.mp4
+word: semiotics  link: https://www.handspeak.com/word/s/semiotics.mp4
+word: neuroscience  link: https://www.handspeak.com/word/n/neuroscience.mp4
+word: pronounce  link: https://www.handspeak.com/word/p/pronounce.mp4
+word: speak manually  link: https://www.handspeak.com/word/s/speak-manual.mp4
+word: enunciate  link: https://www.handspeak.com/word/e/enunciate.mp4
+word: gesundheit  link: https://www.handspeak.com/word/g/gesundheit.mp4
+word: installation  link: https://www.handspeak.com/word/i/installation.mp4
+word: installation art  link: https://www.handspeak.com/word/i/installation-art.mp4
+word: brace  link: https://www.handspeak.com/word/b/brace.mp4
+word: brace yourself  link: https://www.handspeak.com/word/b/brace-yourself.mp4
+word: saccadic  link: https://www.handspeak.com/word/s/saccade.mp4
+word: saccade  link: https://www.handspeak.com/word/s/saccade-eye.mp4
+word: cliche  link: https://www.handspeak.com/word/c/cliche.mp4
+word: documentation  link: https://www.handspeak.com/word/d/documentation.mp4
+word: drip  link: https://www.handspeak.com/word/d/drip-drop.mp4
+word: weep  link: https://www.handspeak.com/word/w/weep-tear.mp4
+word: distressed  link: https://www.handspeak.com/word/d/distressed.mp4
+word: trailer  link: https://www.handspeak.com/word/t/trailer.mp4
+word: signoclasm  link: https://www.handspeak.com/word/s/signoclasm.mp4
+word: Singaporean  link: https://www.handspeak.com/word/s/singapore2.mp4
+word: ideographic  link: https://www.handspeak.com/word/i/ideographic.mp4
+word: deadline  link: https://www.handspeak.com/word/d/deadline.mp4
+word: defendant  link: https://www.handspeak.com/word/d/defendant.mp4
+word: butter up  link: https://www.handspeak.com/word/b/brownnose-flatter.mp4
+word: babysit  link: https://www.handspeak.com/word/b/babysit.mp4
+word: firefighting  link: https://www.handspeak.com/word/f/firefighting.mp4
+word: operator  link: https://www.handspeak.com/word/o/operator-phone.mp4
+word: globe  link: https://www.handspeak.com/word/g/globe.mp4
+word: system  link: https://www.handspeak.com/word/s/system2.mp4
+word: iconic  link: https://www.handspeak.com/word/i/iconic.mp4
+word: simile  link: https://www.handspeak.com/word/s/simile.mp4
+word: digital  link: https://www.handspeak.com/word/d/digital.mp4
+word: scholarship  link: https://www.handspeak.com/word/s/scholarship.mp4
+word: like not  link: https://www.handspeak.com/word/l/like-not.mp4
+word: likewise  link: https://www.handspeak.com/word/l/likewise.mp4
+word: beforehand  link: https://www.handspeak.com/word/b/beforehand.mp4
+word: couch  link: https://www.handspeak.com/word/c/couch.mp4
+word: shower  link: https://www.handspeak.com/word/s/shower-bath.mp4
+word: agitated  link: https://www.handspeak.com/word/a/agitated.mp4
+word: cry  link: https://www.handspeak.com/word/c/cry.mp4
+word: male-dominated  link: https://www.handspeak.com/word/m/male-dominated2.mp4
+word: Frankfurt  link: https://www.handspeak.com/word/f/frankfurt.mp4
+word: Wroclaw, Poland  link: https://www.handspeak.com/word/w/wroclaw.mp4
+word: Warsaw, Poland  link: https://www.handspeak.com/word/w/warsaw-poland.mp4
+word: Krakow, Poland  link: https://www.handspeak.com/word/k/krakow-poland.mp4
+word: Gdansk, Poland  link: https://www.handspeak.com/word/g/gdansk-poland.mp4
+word: idolatry  link: https://www.handspeak.com/word/i/idolatry.mp4
+word: faculty  link: https://www.handspeak.com/word/f/faculty.mp4
+word: foreign  link: https://www.handspeak.com/word/f/foreign.mp4
+word: foreigner  link: https://www.handspeak.com/word/f/foreigner.mp4
+word: staff  link: https://www.handspeak.com/word/s/staff.mp4
+word: portrait  link: https://www.handspeak.com/word/p/portrait.mp4
+word: period (time)  link: https://www.handspeak.com/word/p/period-time.mp4
+word: episode  link: https://www.handspeak.com/word/e/episode-ix.mp4
+word: phase  link: https://www.handspeak.com/word/p/phase.mp4
+word: post-modern  link: https://www.handspeak.com/word/p/post-modern.mp4
+word: copyright infringement  link: https://www.handspeak.com/word/c/copyright-infringement.mp4
+word: reality  link: https://www.handspeak.com/word/r/reality.mp4
+word: fact  link: https://www.handspeak.com/word/f/fact.mp4
+word: spiral  link: https://www.handspeak.com/word/s/spiral.mp4
+word: unburden  link: https://www.handspeak.com/word/u/unburden.mp4
+word: empower  link: https://www.handspeak.com/word/e/empower.mp4
+word: insurance  link: https://www.handspeak.com/word/i/insurance.mp4
+word: insurance broker  link: https://www.handspeak.com/word/i/insurance-broker.mp4
+word: cap (limit)  link: https://www.handspeak.com/word/c/cap-limit.mp4
+word: cap (headwear)  link: https://www.handspeak.com/word/c/cap-head.mp4
+word: videoconferencing  link: https://www.handspeak.com/word/v/videoconferencing.mp4
+word: videophone  link: https://www.handspeak.com/word/v/videophone-fs.mp4
+word: vlog  link: https://www.handspeak.com/word/v/vlog.mp4
+word: background  link: https://www.handspeak.com/word/b/background.mp4
+word: foreground  link: https://www.handspeak.com/word/f/foreground.mp4
+word: bookstore  link: https://www.handspeak.com/word/b/bookstore.mp4
+word: commercial  link: https://www.handspeak.com/word/c/commercial.mp4
+word: catch-up  link: https://www.handspeak.com/word/c/catch-up.mp4
+word: specialist  link: https://www.handspeak.com/word/s/specialist.mp4
+word: grammar  link: https://www.handspeak.com/word/g/grammar.mp4
+word: code of ethics  link: https://www.handspeak.com/word/c/code-of-ethics.mp4
+word: previous  link: https://www.handspeak.com/word/p/previous.mp4
+word: back up  link: https://www.handspeak.com/word/b/back-up.mp4
+word: prior to  link: https://www.handspeak.com/word/p/prior-to.mp4
+word: bench  link: https://www.handspeak.com/word/b/bench.mp4
+word: framework  link: https://www.handspeak.com/word/f/framework.mp4
+word: hair-washing  link: https://www.handspeak.com/word/h/hair-washing.mp4
+word: rinse  link: https://www.handspeak.com/word/r/rinse.mp4
+word: burden  link: https://www.handspeak.com/word/b/burden-onus.mp4
+word: burden-free  link: https://www.handspeak.com/word/b/burden-free.mp4
+word: result  link: https://www.handspeak.com/word/r/result.mp4
+word: conclude  link: https://www.handspeak.com/word/c/conclude.mp4
+word: process  link: https://www.handspeak.com/word/p/process.mp4
+word: ceremony  link: https://www.handspeak.com/word/c/ceremony.mp4
+word: fad  link: https://www.handspeak.com/word/f/fad-fs.mp4
+word: trivial  link: https://www.handspeak.com/word/t/trivial.mp4
+word: lethargic  link: https://www.handspeak.com/word/l/lethargic.mp4
+word: look back  link: https://www.handspeak.com/word/l/look-back.mp4
+word: gamble  link: https://www.handspeak.com/word/g/gamble.mp4
+word: achieve  link: https://www.handspeak.com/word/a/achieve.mp4
+word: stand back  link: https://www.handspeak.com/word/s/stand-back.mp4
+word: stand out  link: https://www.handspeak.com/word/b/stand-out.mp4
+word: panel-list  link: https://www.handspeak.com/word/p/panel-list.mp4
+word: deafened  link: https://www.handspeak.com/word/d/deafened.mp4
+word: done  link: https://www.handspeak.com/word/d/done-finish.mp4
+word: fulfill  link: https://www.handspeak.com/word/f/fulfill.mp4
+word: periodic table  link: https://www.handspeak.com/word/p/periodic-table.mp4
+word: period (mark)  link: https://www.handspeak.com/word/p/period-dot.mp4
+word: highlighting text  link: https://www.handspeak.com/word/h/highlight-pen2.mp4
+word: highlight  link: https://www.handspeak.com/word/h/highlight.mp4
+word: bargain  link: https://www.handspeak.com/word/b/bargain-agree.mp4
+word: plea bargain  link: https://www.handspeak.com/word/b/plea-bargain.mp4
+word: cross-legged  link: https://www.handspeak.com/word/c/cross-legged.mp4
+word: manspreading  link: https://www.handspeak.com/word/m/manspreading.mp4
+word: contribute  link: https://www.handspeak.com/word/c/contribute.mp4
+word: interact  link: https://www.handspeak.com/word/i/interact.mp4
+word: ideal  link: https://www.handspeak.com/word/i/ideal.mp4
+word: rhetoric  link: https://www.handspeak.com/word/r/rhetoric.mp4
+word: parley  link: https://www.handspeak.com/word/p/parley.mp4
+word: discourse  link: https://www.handspeak.com/word/d/discourse-discuss.mp4
+word: objective  link: https://www.handspeak.com/word/o/objective.mp4
+word: hold back  link: https://www.handspeak.com/word/h/hold-back.mp4
+word: driver  link: https://www.handspeak.com/word/d/driver.mp4
+word: lion  link: https://www.handspeak.com/word/l/lion.mp4
+word: rut  link: https://www.handspeak.com/word/r/rut-fs.mp4
+word: deer  link: https://www.handspeak.com/word/d/deer.mp4
+word: beaver  link: https://www.handspeak.com/word/b/beaver.mp4
+word: seal (animal)  link: https://www.handspeak.com/word/s/seal-animal.mp4
+word: shrimp  link: https://www.handspeak.com/word/s/shrimp.mp4
+word: worm  link: https://www.handspeak.com/word/w/worm.mp4
+word: stork  link: https://www.handspeak.com/word/s/stork.mp4
+word: sour cream  link: https://www.handspeak.com/word/s/sour-cream.mp4
+word: mascara  link: https://www.handspeak.com/word/m/mascara.mp4
+word: lipstick  link: https://www.handspeak.com/word/l/lipstick.mp4
+word: impressed  link: https://www.handspeak.com/word/i/impress2.mp4
+word: inevitable  link: https://www.handspeak.com/word/i/inevitable.mp4
+word: juice  link: https://www.handspeak.com/word/j/juice.mp4
+word: liquid  link: https://www.handspeak.com/word/l/liquid.mp4
+word: deodorant  link: https://www.handspeak.com/word/d/deodorant.mp4
+word: garden  link: https://www.handspeak.com/word/g/garden.mp4
+word: open-minded  link: https://www.handspeak.com/word/o/open-minded.mp4
+word: situation  link: https://www.handspeak.com/word/s/situation.mp4
+word: look up to  link: https://www.handspeak.com/word/l/look-up-to.mp4
+word: stimulate  link: https://www.handspeak.com/word/s/stimulate.mp4
+word: eyeliner  link: https://www.handspeak.com/word/e/eyeliner.mp4
+word: brow-liner  link: https://www.handspeak.com/word/b/brow-liner.mp4
+word: unfair  link: https://www.handspeak.com/word/u/unfair.mp4
+word: unjust  link: https://www.handspeak.com/word/u/unjust.mp4
+word: immediate  link: https://www.handspeak.com/word/i/immediate.mp4
+word: rest of  link: https://www.handspeak.com/word/r/rest-of.mp4
+word: area  link: https://www.handspeak.com/word/a/area.mp4
+word: get-together  link: https://www.handspeak.com/word/g/get-together.mp4
+word: policy  link: https://www.handspeak.com/word/p/policy.mp4
+word: pants  link: https://www.handspeak.com/word/p/pants.mp4
+word: babble  link: https://www.handspeak.com/word/b/babble.mp4
+word: ramble  link: https://www.handspeak.com/word/r/ramble.mp4
+word: statistics  link: https://www.handspeak.com/word/s/statistics.mp4
+word: beast  link: https://www.handspeak.com/word/b/beast.mp4
+word: bog  link: https://www.handspeak.com/word/b/bog-stuck.mp4
+word: tie down  link: https://www.handspeak.com/word/t/tie-down.mp4
+word: old-fashioned  link: https://www.handspeak.com/word/o/old-fashioned.mp4
+word: pattern  link: https://www.handspeak.com/word/p/pattern.mp4
+word: experiment  link: https://www.handspeak.com/word/e/experiment.mp4
+word: amend  link: https://www.handspeak.com/word/a/amend.mp4
+word: roof  link: https://www.handspeak.com/word/r/roof.mp4
+word: encyclopedia  link: https://www.handspeak.com/word/e/encyclopedia.mp4
+word: instructor  link: https://www.handspeak.com/word/i/instructor.mp4
+word: gang  link: https://www.handspeak.com/word/g/gang.mp4
+word: teen  link: https://www.handspeak.com/word/t/teen.mp4
+word: environment  link: https://www.handspeak.com/word/e/environment.mp4
+word: post-structuralism  link: https://www.handspeak.com/word/m/post-structuralism.mp4
+word: modernization  link: https://www.handspeak.com/word/m/modernize.mp4
+word: international  link: https://www.handspeak.com/word/i/international.mp4
+word: quality  link: https://www.handspeak.com/word/q/quality.mp4
+word: content  link: https://www.handspeak.com/word/c/content.mp4
+word: ballet  link: https://www.handspeak.com/word/b/ballet.mp4
+word: shovel  link: https://www.handspeak.com/word/s/shovel-snow.mp4
+word: dig  link: https://www.handspeak.com/word/d/dig-earth.mp4
+word: yours  link: https://www.handspeak.com/word/y/yours.mp4
+word: you bet  link: https://www.handspeak.com/word/y/you-bet.mp4
+word: you all  link: https://www.handspeak.com/word/y/you-all.mp4
+word: propagate  link: https://www.handspeak.com/word/p/propagate.mp4
+word: her (pronoun)  link: https://www.handspeak.com/word/h/her-pronoun.mp4
+word: him  link: https://www.handspeak.com/word/h/him.mp4
+word: by oneself  link: https://www.handspeak.com/word/b/by-oneself.mp4
+word: poke  link: https://www.handspeak.com/word/p/poke.mp4
+word: poke-me  link: https://www.handspeak.com/word/p/poke-me.mp4
+word: dump  link: https://www.handspeak.com/word/d/dump.mp4
+word: jilt  link: https://www.handspeak.com/word/j/jilt.mp4
+word: surgery  link: https://www.handspeak.com/word/s/surgery.mp4
+word: excision  link: https://www.handspeak.com/word/e/excision.mp4
+word: operate (run)  link: https://www.handspeak.com/word/o/operate-run.mp4
+word: operating system  link: https://www.handspeak.com/word/o/operating-system.mp4
+word: curveball  link: https://www.handspeak.com/word/c/curve-bend.mp4
+word: coil  link: https://www.handspeak.com/word/c/coil.mp4
+word: curve  link: https://www.handspeak.com/word/c/curve-graph.mp4
+word: copy and paste  link: https://www.handspeak.com/word/c/copy-paste.mp4
+word: instruct  link: https://www.handspeak.com/word/i/instruct-teach.mp4
+word: enjoin  link: https://www.handspeak.com/word/e/enjoin.mp4
+word: pioneer  link: https://www.handspeak.com/word/p/pioneer.mp4
+word: beginner  link: https://www.handspeak.com/word/b/beginner.mp4
+word: space  link: https://www.handspeak.com/word/s/space.mp4
+word: tense  link: https://www.handspeak.com/word/t/tense-nervous.mp4
+word: sweetheart  link: https://www.handspeak.com/word/s/sweetheart.mp4
+word: theirs  link: https://www.handspeak.com/word/t/theirs.mp4
+word: stepmother  link: https://www.handspeak.com/word/s/stepmother.mp4
+word: stepfather  link: https://www.handspeak.com/word/s/step-father.mp4
+word: oneself  link: https://www.handspeak.com/word/o/oneself.mp4
+word: whose  link: https://www.handspeak.com/word/w/whose.mp4
+word: string  link: https://www.handspeak.com/word/s/string.mp4
+word: line up  link: https://www.handspeak.com/word/l/line-up.mp4
+word: fishing line  link: https://www.handspeak.com/word/f/fishing-line.mp4
+word: line up in two rows  link: https://www.handspeak.com/word/l/line-up2.mp4
+word: line-up (front)  link: https://www.handspeak.com/word/l/line-rowfront.mp4
+word: line-up (back)  link: https://www.handspeak.com/word/l/line-rowback.mp4
+word: line-up (2)  link: https://www.handspeak.com/word/l/line-row2.mp4
+word: clothesline  link: https://www.handspeak.com/word/c/clothesline.mp4
+word: unmatched  link: https://www.handspeak.com/word/u/unmatched.mp4
+word: Merry Christmas  link: https://www.handspeak.com/word/m/merry-christmas.mp4
+word: deep  link: https://www.handspeak.com/word/d/deep.mp4
+word: ageless  link: https://www.handspeak.com/word/a/ageless.mp4
+word: enemy  link: https://www.handspeak.com/word/e/enemy.mp4
+word: lift  link: https://www.handspeak.com/word/l/lift.mp4
+word: loud  link: https://www.handspeak.com/word/l/loud.mp4
+word: designer  link: https://www.handspeak.com/word/d/designer.mp4
+word: graduate school  link: https://www.handspeak.com/word/g/graduate-masters.mp4
+word: graduate  link: https://www.handspeak.com/word/g/graduate.mp4
+word: graduation  link: https://www.handspeak.com/word/g/graduation.mp4
+word: fine (penalty)  link: https://www.handspeak.com/word/f/fine-charge.mp4
+word: fidget  link: https://www.handspeak.com/word/f/fidget.mp4
+word: direction  link: https://www.handspeak.com/word/d/direction.mp4
+word: desert  link: https://www.handspeak.com/word/d/desert.mp4
+word: detective  link: https://www.handspeak.com/word/d/detective.mp4
+word: educate  link: https://www.handspeak.com/word/e/educate.mp4
+word: educator  link: https://www.handspeak.com/word/e/educator.mp4
+word: direct  link: https://www.handspeak.com/word/d/direct-straight.mp4
+word: oversee  link: https://www.handspeak.com/word/o/oversee.mp4
+word: expand on  link: https://www.handspeak.com/word/e/expand-word.mp4
+word: crowd  link: https://www.handspeak.com/word/c/crowd.mp4
+word: custom  link: https://www.handspeak.com/word/c/custom-habit.mp4
+word: customary  link: https://www.handspeak.com/word/c/customary.mp4
+word: pair  link: https://www.handspeak.com/word/p/pair.mp4
+word: couple  link: https://www.handspeak.com/word/c/couple-pair.mp4
+word: duo  link: https://www.handspeak.com/word/d/duo.mp4
+word: coach  link: https://www.handspeak.com/word/c/coach-trainer.mp4
+word: captain  link: https://www.handspeak.com/word/c/captain-leader.mp4
+word: raccoon  link: https://www.handspeak.com/word/r/raccoon.mp4
+word: signing fluently  link: https://www.handspeak.com/word/s/signing-savvy.mp4
+word: sign language  link: https://www.handspeak.com/word/s/sign-language.mp4
+word: dictionary  link: https://www.handspeak.com/word/d/dictionary.mp4
+word: Japanese  link: https://www.handspeak.com/word/j/japanese.mp4
+word: receptive  link: https://www.handspeak.com/word/r/receptive.mp4
+word: receptacle  link: https://www.handspeak.com/word/r/receptacle.mp4
+word: acculturate  link: https://www.handspeak.com/word/a/acculturate.mp4
+word: enculturate  link: https://www.handspeak.com/word/a/enculturate.mp4
+word: book value  link: https://www.handspeak.com/word/b/book-value.mp4
+word: sit down  link: https://www.handspeak.com/word/s/sit-chair.mp4
+word: forefinger  link: https://www.handspeak.com/word/f/forefinger.mp4
+word: storytelling  link: https://www.handspeak.com/word/s/storytelling.mp4
+word: poetics  link: https://www.handspeak.com/word/p/poetics.mp4
+word: deed  link: https://www.handspeak.com/word/d/deed.mp4
+word: gestiulation  link: https://www.handspeak.com/word/g/gesture-manual2.mp4
+word: bookish  link: https://www.handspeak.com/word/b/bookish.mp4
+word: word order  link: https://www.handspeak.com/word/w/word-order.mp4
+word: ABCs  link: https://www.handspeak.com/word/a/alphabet-az.mp4
+word: alphabet  link: https://www.handspeak.com/word/a/alphabet-abc.mp4
+word: alphabet soup  link: https://www.handspeak.com/word/a/alphabet-soup.mp4
+word: window  link: https://www.handspeak.com/word/w/window.mp4
+word: ajar  link: https://www.handspeak.com/word/a/ajar.mp4
+word: vent  link: https://www.handspeak.com/word/v/vent-out.mp4
+word: mob  link: https://www.handspeak.com/word/m/mob.mp4
+word: Obama, Barack  link: https://www.handspeak.com/word/o/obama-barack.mp4
+word: legal  link: https://www.handspeak.com/word/l/legal.mp4
+word: shush  link: https://www.handspeak.com/word/s/shush.mp4
+word: fall back (daylight saving time)  link: https://www.handspeak.com/word/f/fall-back.mp4
+word: court reporter  link: https://www.handspeak.com/word/c/court-reporter.mp4
+word: deliberation  link: https://www.handspeak.com/word/d/deliberation-decision.mp4
+word: motion  link: https://www.handspeak.com/word/m/motion-meeting.mp4
+word: oath  link: https://www.handspeak.com/word/o/oath.mp4
+word: witness  link: https://www.handspeak.com/word/w/witness.mp4
+word: witness (person)  link: https://www.handspeak.com/word/w/witness-person.mp4
+word: jury  link: https://www.handspeak.com/word/j/jury-court.mp4
+word: Christian  link: https://www.handspeak.com/word/c/christian.mp4
+word: intercultural communication  link: https://www.handspeak.com/word/c/intercultural communication.mp4
+word: cross-cultural  link: https://www.handspeak.com/word/c/cross-cultural.mp4
+word: glory  link: https://www.handspeak.com/word/g/glory.mp4
+word: culture shock  link: https://www.handspeak.com/word/c/culture-shock.mp4
+word: arson  link: https://www.handspeak.com/word/a/arson.mp4
+word: murder  link: https://www.handspeak.com/word/m/murder.mp4
+word: chapel  link: https://www.handspeak.com/word/c/chapel.mp4
+word: journey  link: https://www.handspeak.com/word/j/journey.mp4
+word: flock  link: https://www.handspeak.com/word/f/flock-animal.mp4
+word: us  link: https://www.handspeak.com/word/u/us.mp4
+word: swarm  link: https://www.handspeak.com/word/s/swarm.mp4
+word: waive  link: https://www.handspeak.com/word/w/waive.mp4
+word: captioner  link: https://www.handspeak.com/word/c/captioner.mp4
+word: calligraphy  link: https://www.handspeak.com/word/c/calligraphy.mp4
+word: ethics  link: https://www.handspeak.com/word/e/ethics.mp4
+word: participate  link: https://www.handspeak.com/word/p/participate.mp4
+word: rhythmic gymnastics  link: https://www.handspeak.com/word/g/rhythmic-gymnastics.mp4
+word: display  link: https://www.handspeak.com/word/d/display.mp4
+word: pass on  link: https://www.handspeak.com/word/p/pass-on-gen.mp4
+word: disseminate  link: https://www.handspeak.com/word/d/disseminate.mp4
+word: themselves  link: https://www.handspeak.com/word/t/themselves.mp4
+word: selfless  link: https://www.handspeak.com/word/s/selfless.mp4
+word: galaxy  link: https://www.handspeak.com/word/g/galaxy.mp4
+word: geography  link: https://www.handspeak.com/word/g/geography.mp4
+word: geometry  link: https://www.handspeak.com/word/g/geometry.mp4
+word: good-looking  link: https://www.handspeak.com/word/g/good-looking.mp4
+word: blunt  link: https://www.handspeak.com/word/b/blunt.mp4
+word: hospitality  link: https://www.handspeak.com/word/h/hospitality.mp4
+word: outspoken  link: https://www.handspeak.com/word/o/outspoken.mp4
+word: lawyer  link: https://www.handspeak.com/word/l/lawyer.mp4
+word: two  link: https://www.handspeak.com/word/t/two.mp4
+word: twelve  link: https://www.handspeak.com/word/t/twelve.mp4
+word: read out  link: https://www.handspeak.com/word/r/read-aloud-speak.mp4
+word: three  link: https://www.handspeak.com/word/t/three2.mp4
+word: thirteen  link: https://www.handspeak.com/word/t/thirteen.mp4
+word: one-dimensional  link: https://www.handspeak.com/word/o/one-dimensional.mp4
+word: read through  link: https://www.handspeak.com/word/r/read-through.mp4
+word: four  link: https://www.handspeak.com/word/f/four2.mp4
+word: recipe  link: https://www.handspeak.com/word/r/recipe.mp4
+word: five  link: https://www.handspeak.com/word/f/five2.mp4
+word: six  link: https://www.handspeak.com/word/s/six.mp4
+word: seven  link: https://www.handspeak.com/word/s/seven.mp4
+word: eight  link: https://www.handspeak.com/word/e/eight.mp4
+word: eleven  link: https://www.handspeak.com/word/e/eleven.mp4
+word: ten  link: https://www.handspeak.com/word/t/ten.mp4
+word: nine  link: https://www.handspeak.com/word/n/nine.mp4
+word: fourteen  link: https://www.handspeak.com/word/f/fourteen.mp4
+word: fifteen  link: https://www.handspeak.com/word/f/fifteen.mp4
+word: sixteen  link: https://www.handspeak.com/word/s/sixteen.mp4
+word: seventeen  link: https://www.handspeak.com/word/s/seventeen.mp4
+word: eighteen  link: https://www.handspeak.com/word/e/eighteen.mp4
+word: nineteen  link: https://www.handspeak.com/word/n/nineteen.mp4
+word: twenty  link: https://www.handspeak.com/word/t/twenty.mp4
+word: twenty-one  link: https://www.handspeak.com/word/t/twenty-one.mp4
+word: twenty-two  link: https://www.handspeak.com/word/t/twenty-two.mp4
+word: twenty-three  link: https://www.handspeak.com/word/t/twenty-three.mp4
+word: twenty-four  link: https://www.handspeak.com/word/t/twenty-four.mp4
+word: twenty-five  link: https://www.handspeak.com/word/t/twenty-five.mp4
+word: twenty-six  link: https://www.handspeak.com/word/t/twenty-six.mp4
+word: twenty-seven  link: https://www.handspeak.com/word/t/twenty-seven.mp4
+word: twenty-eight  link: https://www.handspeak.com/word/t/twenty-eight.mp4
+word: twenty-nine  link: https://www.handspeak.com/word/t/twenty-nine.mp4
+word: thirty  link: https://www.handspeak.com/word/t/thirty.mp4
+word: thirty-one  link: https://www.handspeak.com/word/t/thirty-one.mp4
+word: thirty-two  link: https://www.handspeak.com/word/t/thirty-two.mp4
+word: thirty-three  link: https://www.handspeak.com/word/t/thirty-three.mp4
+word: thirty-four  link: https://www.handspeak.com/word/t/thirty-four.mp4
+word: thirty-five  link: https://www.handspeak.com/word/t/thirty-five.mp4
+word: thirty-six  link: https://www.handspeak.com/word/t/thirty-six.mp4
+word: thirty-seven  link: https://www.handspeak.com/word/t/thirty-seven.mp4
+word: thirty-eight  link: https://www.handspeak.com/word/t/thirty-eight.mp4
+word: thirty-nine  link: https://www.handspeak.com/word/t/thirty-nine.mp4
+word: forty  link: https://www.handspeak.com/word/f/forty.mp4
+word: forty-one  link: https://www.handspeak.com/word/f/forty-one.mp4
+word: forty-two  link: https://www.handspeak.com/word/f/forty-two.mp4
+word: forty-three  link: https://www.handspeak.com/word/f/forty-three.mp4
+word: forty-four  link: https://www.handspeak.com/word/f/forty-four.mp4
+word: forty-five  link: https://www.handspeak.com/word/f/forty-five.mp4
+word: forty-six  link: https://www.handspeak.com/word/f/forty-six.mp4
+word: forty-seven  link: https://www.handspeak.com/word/f/forty-seven.mp4
+word: forty-eight  link: https://www.handspeak.com/word/f/forty-eight.mp4
+word: forty-nine  link: https://www.handspeak.com/word/f/forty-nine.mp4
+word: fifty  link: https://www.handspeak.com/word/f/fifty.mp4
+word: fifty-one  link: https://www.handspeak.com/word/f/fifty-one.mp4
+word: fifty-two  link: https://www.handspeak.com/word/f/fifty-two.mp4
+word: fifty-three  link: https://www.handspeak.com/word/f/fifty-three.mp4
+word: fifty-four  link: https://www.handspeak.com/word/f/fifty-four.mp4
+word: fifty-five  link: https://www.handspeak.com/word/f/fifty-five.mp4
+word: fifty-six  link: https://www.handspeak.com/word/f/fifty-six.mp4
+word: fifty-seven  link: https://www.handspeak.com/word/f/fifty-seven.mp4
+word: fifty-eight  link: https://www.handspeak.com/word/f/fifty-eight.mp4
+word: fifty-nine  link: https://www.handspeak.com/word/f/fifty-nine.mp4
+word: sixty  link: https://www.handspeak.com/word/s/sixty.mp4
+word: sixty-one  link: https://www.handspeak.com/word/s/sixty-one.mp4
+word: sixty-two  link: https://www.handspeak.com/word/s/sixty-two.mp4
+word: sixty-three  link: https://www.handspeak.com/word/s/sixty-three.mp4
+word: sixty-four  link: https://www.handspeak.com/word/s/sixty-four.mp4
+word: sixty-five  link: https://www.handspeak.com/word/s/sixty-five.mp4
+word: sixty-six  link: https://www.handspeak.com/word/s/sixty-six.mp4
+word: sixty-seven  link: https://www.handspeak.com/word/s/sixty-seven.mp4
+word: sixty-eight  link: https://www.handspeak.com/word/s/sixty-eight.mp4
+word: sixty-nine  link: https://www.handspeak.com/word/s/sixty-nine.mp4
+word: seventy  link: https://www.handspeak.com/word/s/seventy.mp4
+word: seventy-one  link: https://www.handspeak.com/word/s/seventy-one.mp4
+word: seventy-two  link: https://www.handspeak.com/word/s/seventy-two.mp4
+word: seventy-three  link: https://www.handspeak.com/word/s/seventy-three.mp4
+word: seventy-four  link: https://www.handspeak.com/word/s/seventy-four.mp4
+word: seventy-five  link: https://www.handspeak.com/word/s/seventy-five.mp4
+word: seventy-six  link: https://www.handspeak.com/word/s/seventy-six.mp4
+word: seventy-seven  link: https://www.handspeak.com/word/s/seventy-seven.mp4
+word: seventy-eight  link: https://www.handspeak.com/word/s/seventy-eight.mp4
+word: seventy-nine  link: https://www.handspeak.com/word/s/seventy-nine.mp4
+word: eighty  link: https://www.handspeak.com/word/e/eighty.mp4
+word: eighty-one  link: https://www.handspeak.com/word/e/eighty-one.mp4
+word: eighty-two  link: https://www.handspeak.com/word/e/eighty-two.mp4
+word: eighty-three  link: https://www.handspeak.com/word/e/eighty-three.mp4
+word: eighty-four  link: https://www.handspeak.com/word/e/eighty-four.mp4
+word: eighty-five  link: https://www.handspeak.com/word/e/eighty-five.mp4
+word: eighty-six  link: https://www.handspeak.com/word/e/eighty-six.mp4
+word: eighty-seven  link: https://www.handspeak.com/word/e/eighty-seven.mp4
+word: eighty-eight  link: https://www.handspeak.com/word/e/eighty-eight.mp4
+word: eighty-nine  link: https://www.handspeak.com/word/e/eighty-nine.mp4
+word: ninety  link: https://www.handspeak.com/word/n/ninety.mp4
+word: ninety-one  link: https://www.handspeak.com/word/n/ninety-one.mp4
+word: ninety-two  link: https://www.handspeak.com/word/n/ninety-two.mp4
+word: ninety-three  link: https://www.handspeak.com/word/n/ninety-three.mp4
+word: ninety-four  link: https://www.handspeak.com/word/n/ninety-four.mp4
+word: ninety-five  link: https://www.handspeak.com/word/n/ninety-five.mp4
+word: ninety-six  link: https://www.handspeak.com/word/n/ninety-six.mp4
+word: ninety-seven  link: https://www.handspeak.com/word/n/ninety-seven.mp4
+word: ninety-eight  link: https://www.handspeak.com/word/n/ninety-eight.mp4
+word: ninety-nine  link: https://www.handspeak.com/word/n/ninety-nine.mp4
+word: one hundred  link: https://www.handspeak.com/word/o/one-hundred.mp4
+word:   link: https://www.handspeak.com/word/0/one-hundred2.mp4
+word: hammer  link: https://www.handspeak.com/word/h/hammer.mp4
+word: halo  link: https://www.handspeak.com/word/h/halo.mp4
+word: harmonica  link: https://www.handspeak.com/word/h/harmonica.mp4
+word: headache  link: https://www.handspeak.com/word/h/headache.mp4
+word: hell  link: https://www.handspeak.com/word/h/hell-fire.mp4
+word: helmet  link: https://www.handspeak.com/word/h/helmet.mp4
+word: highway  link: https://www.handspeak.com/word/h/highway.mp4
+word: grip  link: https://www.handspeak.com/word/g/grip.mp4
+word: honey  link: https://www.handspeak.com/word/h/honey-food.mp4
+word: horrible  link: https://www.handspeak.com/word/h/horrible.mp4
+word: horseback riding  link: https://www.handspeak.com/word/h/horseback-riding.mp4
+word: hotel  link: https://www.handspeak.com/word/h/hotel.mp4
+word: however  link: https://www.handspeak.com/word/h/however.mp4
+word: hypnosis  link: https://www.handspeak.com/word/h/hypnosis.mp4
+word: hypnotize  link: https://www.handspeak.com/word/h/hypnotize.mp4
+word: mesmerize  link: https://www.handspeak.com/word/m/mesmerize.mp4
+word: hypothesis  link: https://www.handspeak.com/word/h/hypothesis.mp4
+word: icebox  link: https://www.handspeak.com/word/i/icebox.mp4
+word: imagine  link: https://www.handspeak.com/word/i/imagine.mp4
+word: imagine that  link: https://www.handspeak.com/word/i/imagine-that.mp4
+word: immigrate  link: https://www.handspeak.com/word/i/immigrate-2017.mp4
+word: emigrate  link: https://www.handspeak.com/word/e/emigrate.mp4
+word: incompetent  link: https://www.handspeak.com/word/i/incompetent.mp4
+word: Indonesia  link: https://www.handspeak.com/word/i/indonesia.mp4
+word: industry  link: https://www.handspeak.com/word/i/industry.mp4
+word: island  link: https://www.handspeak.com/word/i/island.mp4
+word: itch  link: https://www.handspeak.com/word/i/itch-hand.mp4
+word: tingle  link: https://www.handspeak.com/word/t/tingle.mp4
+word: prickle  link: https://www.handspeak.com/word/p/prickle.mp4
+word: jot  link: https://www.handspeak.com/word/j/jot-write.mp4
+word: immigration  link: https://www.handspeak.com/word/i/immigration.mp4
+word: internship  link: https://www.handspeak.com/word/i/internship.mp4
+word: jump rope  link: https://www.handspeak.com/word/j/jump-rope.mp4
+word: Jew  link: https://www.handspeak.com/word/j/jew.mp4
+word: kitchen  link: https://www.handspeak.com/word/k/kitchen.mp4
+word: jeer  link: https://www.handspeak.com/word/j/jeer.mp4
+word: joke  link: https://www.handspeak.com/word/j/joke.mp4
+word: kidding  link: https://www.handspeak.com/word/k/kidding.mp4
+word: bobcat  link: https://www.handspeak.com/word/b/bobcat.mp4
+word: kitten  link: https://www.handspeak.com/word/k/kitten.mp4
+word: kite  link: https://www.handspeak.com/word/k/kite.mp4
+word: knee  link: https://www.handspeak.com/word/k/knee.mp4
+word: knuckle  link: https://www.handspeak.com/word/k/knuckle.mp4
+word: lake  link: https://www.handspeak.com/word/l/lake.mp4
+word: current  link: https://www.handspeak.com/word/c/current-time.mp4
+word: recent  link: https://www.handspeak.com/word/r/recently-past.mp4
+word: recently  link: https://www.handspeak.com/word/r/recently.mp4
+word: lately  link: https://www.handspeak.com/word/l/lately.mp4
+word: while (ago)  link: https://www.handspeak.com/word/w/while-ago.mp4
+word: lamp  link: https://www.handspeak.com/word/l/lamp.mp4
+word: lantern  link: https://www.handspeak.com/word/l/lantern.mp4
+word: lantern jaw  link: https://www.handspeak.com/word/l/lantern-jaw.mp4
+word: lawn  link: https://www.handspeak.com/word/l/lawn.mp4
+word: backyard  link: https://www.handspeak.com/word/b/backyard.mp4
+word: leftover  link: https://www.handspeak.com/word/l/leftover.mp4
+word: light bulb  link: https://www.handspeak.com/word/l/light-bulb.mp4
+word: lap  link: https://www.handspeak.com/word/l/lap-fs.mp4
+word: lick  link: https://www.handspeak.com/word/l/lick-general.mp4
+word: lip  link: https://www.handspeak.com/word/l/lip.mp4
+word: tongue-twister  link: https://www.handspeak.com/word/t/tongue-twister.mp4
+word: logic  link: https://www.handspeak.com/word/l/logic.mp4
+word: love it  link: https://www.handspeak.com/word/l/love-it.mp4
+word: lovely  link: https://www.handspeak.com/word/l/lovely.mp4
+word: lump  link: https://www.handspeak.com/word/l/lump.mp4
+word: chunk  link: https://www.handspeak.com/word/c/chunk-plu.mp4
+word: nugget  link: https://www.handspeak.com/word/n/nugget.mp4
+word: lungs  link: https://www.handspeak.com/word/l/lungs.mp4
+word: mail  link: https://www.handspeak.com/word/m/mail.mp4
+word: mailbox  link: https://www.handspeak.com/word/m/mailbox.mp4
+word: postmark  link: https://www.handspeak.com/word/p/postmark.mp4
+word: magnet  link: https://www.handspeak.com/word/m/magnet.mp4
+word: entice  link: https://www.handspeak.com/word/e/entice.mp4
+word: mainstream  link: https://www.handspeak.com/word/m/mainstream.mp4
+word: majority  link: https://www.handspeak.com/word/m/majority.mp4
+word: minority  link: https://www.handspeak.com/word/m/minority.mp4
+word: mathematics  link: https://www.handspeak.com/word/m/mathematics.mp4
+word: McDonald's  link: https://www.handspeak.com/word/m/mcdonald-adult.mp4
+word: Tim Hortons  link: https://www.handspeak.com/word/t/tim-hortons.mp4
+word: measles  link: https://www.handspeak.com/word/m/measles.mp4
+word: mechanic  link: https://www.handspeak.com/word/m/mechanic.mp4
+word: mechanical  link: https://www.handspeak.com/word/m/mechanical.mp4
+word: member  link: https://www.handspeak.com/word/m/member.mp4
+word: medium  link: https://www.handspeak.com/word/m/medium.mp4
+word: midsize  link: https://www.handspeak.com/word/m/medium2.mp4
+word: middle-sized  link: https://www.handspeak.com/word/m/medium-middle.mp4
+word: swell  link: https://www.handspeak.com/word/s/swelling.mp4
+word: neck swelling  link: https://www.handspeak.com/word/n/neck-swelling.mp4
+word: Caesarean section  link: https://www.handspeak.com/word/c/cesarean.mp4
+word: calculus  link: https://www.handspeak.com/word/c/calculus.mp4
+word: career  link: https://www.handspeak.com/word/c/career.mp4
+word: chapter  link: https://www.handspeak.com/word/c/chapter.mp4
+word: chemistry  link: https://www.handspeak.com/word/c/chemistry.mp4
+word: Christmas tree  link: https://www.handspeak.com/word/c/christmas-tree.mp4
+word: chopsticks  link: https://www.handspeak.com/word/c/chopsticks.mp4
+word: classify  link: https://www.handspeak.com/word/c/classify.mp4
+word: classic  link: https://www.handspeak.com/word/c/classic.mp4
+word: coconut  link: https://www.handspeak.com/word/c/coconut.mp4
+word: contact  link: https://www.handspeak.com/word/c/contact.mp4
+word: contradict  link: https://www.handspeak.com/word/c/contradict.mp4
+word: cop  link: https://www.handspeak.com/word/c/cop.mp4
+word: plight  link: https://www.handspeak.com/word/p/plight.mp4
+word: corner  link: https://www.handspeak.com/word/c/corner.mp4
+word: crocodile  link: https://www.handspeak.com/word/c/crocodile.mp4
+word: dart  link: https://www.handspeak.com/word/d/darts.mp4
+word: define  link: https://www.handspeak.com/word/d/define.mp4
+word: discipline  link: https://www.handspeak.com/word/d/discipline.mp4
+word: drawer  link: https://www.handspeak.com/word/d/drawer.mp4
+word: diagnosis  link: https://www.handspeak.com/word/d/diagnosis.mp4
+word: ear  link: https://www.handspeak.com/word/e/ear.mp4
+word: economy  link: https://www.handspeak.com/word/e/economy.mp4
+word: effect  link: https://www.handspeak.com/word/e/effect.mp4
+word: affect  link: https://www.handspeak.com/word/a/affect.mp4
+word: elbow  link: https://www.handspeak.com/word/e/elbow.mp4
+word: electrician  link: https://www.handspeak.com/word/e/electrician.mp4
+word: electricity  link: https://www.handspeak.com/word/e/electricity.mp4
+word: English muffin  link: https://www.handspeak.com/word/e/english-muffin.mp4
+word: equator  link: https://www.handspeak.com/word/e/equator.mp4
+word: eyelash  link: https://www.handspeak.com/word/e/eyelashes.mp4
+word: excellent  link: https://www.handspeak.com/word/e/excellent.mp4
+word: marvelous  link: https://www.handspeak.com/word/m/marvelous.mp4
+word: factory  link: https://www.handspeak.com/word/f/factory.mp4
+word: federal  link: https://www.handspeak.com/word/f/federal.mp4
+word: fiance  link: https://www.handspeak.com/word/f/fiance.mp4
+word: finance  link: https://www.handspeak.com/word/f/finances.mp4
+word: fold  link: https://www.handspeak.com/word/f/fold.mp4
+word: pleat  link: https://www.handspeak.com/word/p/pleat.mp4
+word: crease  link: https://www.handspeak.com/word/c/crease.mp4
+word: England  link: https://www.handspeak.com/word/e/england.mp4
+word: able  link: https://www.handspeak.com/word/a/able.mp4
+word: ability  link: https://www.handspeak.com/word/a/ability.mp4
+word: soak  link: https://www.handspeak.com/word/s/soak.mp4
+word: absorb  link: https://www.handspeak.com/word/a/absorb.mp4
+word: forgo  link: https://www.handspeak.com/word/f/forgo.mp4
+word: renounce  link: https://www.handspeak.com/word/r/renounce-decide.mp4
+word: absent  link: https://www.handspeak.com/word/a/absent.mp4
+word: malformed  link: https://www.handspeak.com/word/m/malformed.mp4
+word: herstory  link: https://www.handspeak.com/word/h/herstory.mp4
+word: himself  link: https://www.handspeak.com/word/h/himself.mp4
+word: dull (color)  link: https://www.handspeak.com/word/d/dull-color.mp4
+word: bachelor degree  link: https://www.handspeak.com/word/b/bachelor-degree.mp4
+word: bachelor (single)  link: https://www.handspeak.com/word/b/bachelor-single.mp4
+word: backpack  link: https://www.handspeak.com/word/b/backpack.mp4
+word: backpedaling  link: https://www.handspeak.com/word/b/backpedaling.mp4
+word: badminton  link: https://www.handspeak.com/word/b/badminton.mp4
+word: bankrupt  link: https://www.handspeak.com/word/b/bankrupt-broke.mp4
+word: improverish  link: https://www.handspeak.com/word/i/improverish.mp4
+word: banquet  link: https://www.handspeak.com/word/b/banquet.mp4
+word: barbecue (BBQ)  link: https://www.handspeak.com/word/b/barbecue.mp4
+word: base on  link: https://www.handspeak.com/word/b/base-on.mp4
+word: bat  link: https://www.handspeak.com/word/b/bat-animal.mp4
+word: bet  link: https://www.handspeak.com/word/b/bet.mp4
+word: bone  link: https://www.handspeak.com/word/b/bone.mp4
+word: poison  link: https://www.handspeak.com/word/p/poison.mp4
+word: bookshelf  link: https://www.handspeak.com/word/b/bookshelf.mp4
+word: bookmark  link: https://www.handspeak.com/word/b/bookmark.mp4
+word: bowling  link: https://www.handspeak.com/word/b/bowling-game.mp4
+word: bowel movement  link: https://www.handspeak.com/word/b/bowel-movement.mp4
+word: bribe  link: https://www.handspeak.com/word/b/bribe.mp4
+word: burn up  link: https://www.handspeak.com/word/b/burn.mp4
+word: Bulgaria  link: https://www.handspeak.com/word/b/bulgaria.mp4
+word: train gone sorry  link: https://www.handspeak.com/word/t/train-gone.mp4
+word: brother-in-law  link: https://www.handspeak.com/word/b/brother-in-law.mp4
+word: sister-in-law  link: https://www.handspeak.com/word/s/sister-in-law.mp4
+word: eloquent  link: https://www.handspeak.com/word/e/eloquent-signing.mp4
+word: amateurish  link: https://www.handspeak.com/word/a/amateurish-beginner.mp4
+word: pardon  link: https://www.handspeak.com/word/p/pardon.mp4
+word: since (a while)  link: https://www.handspeak.com/word/s/since-a-while.mp4
+word: survey  link: https://www.handspeak.com/word/s/survey.mp4
+word: nap  link: https://www.handspeak.com/word/n/nap-fs.mp4
+word: snooze  link: https://www.handspeak.com/word/s/snooze-fs.mp4
+word: narrow  link: https://www.handspeak.com/word/n/narrow.mp4
+word: necessary  link: https://www.handspeak.com/word/n/necessary.mp4
+word: necktie  link: https://www.handspeak.com/word/n/necktie.mp4
+word: bowtie  link: https://www.handspeak.com/word/b/bowtie.mp4
+word: navy  link: https://www.handspeak.com/word/n/navy.mp4
+word: needle  link: https://www.handspeak.com/word/n/needle.mp4
+word: neglect  link: https://www.handspeak.com/word/n/neglect.mp4
+word: neutral  link: https://www.handspeak.com/word/n/neutral.mp4
+word: net  link: https://www.handspeak.com/word/n/net.mp4
+word: no good  link: https://www.handspeak.com/word/n/no-good.mp4
+word: lens cap  link: https://www.handspeak.com/word/l/lens-cap.mp4
+word: lens  link: https://www.handspeak.com/word/l/lens-glass.mp4
+word: zoom lens  link: https://www.handspeak.com/word/z/zoom-lens2.mp4
+word: contents  link: https://www.handspeak.com/word/c/contents.mp4
+word: last minute  link: https://www.handspeak.com/word/l/last-minute.mp4
+word: nanotechnology  link: https://www.handspeak.com/word/n/nanotechnology.mp4
+word: technology transfer  link: https://www.handspeak.com/word/t/technology-transfer.mp4
+word: high technology  link: https://www.handspeak.com/word/h/high-technology-top.mp4
+word: newspaper clipping  link: https://www.handspeak.com/word/n/newspaper-clipping.mp4
+word: New Orleans  link: https://www.handspeak.com/word/n/new-orleans.mp4
+word: newbie  link: https://www.handspeak.com/word/n/newbie.mp4
+word: beside  link: https://www.handspeak.com/word/b/beside.mp4
+word: nibble  link: https://www.handspeak.com/word/n/nibble-bite.mp4
+word: nip  link: https://www.handspeak.com/word/n/nip-bite.mp4
+word: nickel  link: https://www.handspeak.com/word/n/nickel.mp4
+word: steel  link: https://www.handspeak.com/word/s/steel.mp4
+word: iron  link: https://www.handspeak.com/word/i/iron-fs.mp4
+word: noble  link: https://www.handspeak.com/word/n/noble.mp4
+word: nominate  link: https://www.handspeak.com/word/n/nominate.mp4
+word: notebook  link: https://www.handspeak.com/word/n/notebook.mp4
+word: novel (new)  link: https://www.handspeak.com/word/n/novel-new.mp4
+word: novel (book)  link: https://www.handspeak.com/word/n/novel-book.mp4
+word: nuisance  link: https://www.handspeak.com/word/n/nuisance.mp4
+word: numb  link: https://www.handspeak.com/word/n/numb.mp4
+word: innumerable  link: https://www.handspeak.com/word/i/innumerable2.mp4
+word: numerous  link: https://www.handspeak.com/word/n/numerous.mp4
+word: overweight  link: https://www.handspeak.com/word/o/overweight.mp4
+word: trudge  link: https://www.handspeak.com/word/o/trudge.mp4
+word: nun  link: https://www.handspeak.com/word/n/nun.mp4
+word: obligation  link: https://www.handspeak.com/word/o/obligation.mp4
+word: obstinate  link: https://www.handspeak.com/word/o/obstinate.mp4
+word: obtain  link: https://www.handspeak.com/word/o/obtain.mp4
+word: blockhead  link: https://www.handspeak.com/word/b/blockhead.mp4
+word: moronic  link: https://www.handspeak.com/word/m/moronic.mp4
+word: nitwit  link: https://www.handspeak.com/word/n/nitwit.mp4
+word: noodle  link: https://www.handspeak.com/word/n/noodle.mp4
+word: obstruct  link: https://www.handspeak.com/word/o/obstruct.mp4
+word: disrupt  link: https://www.handspeak.com/word/d/disrupt.mp4
+word: occupy  link: https://www.handspeak.com/word/o/occupy.mp4
+word: occur  link: https://www.handspeak.com/word/o/occur.mp4
+word: office  link: https://www.handspeak.com/word/o/office.mp4
+word: of course  link: https://www.handspeak.com/word/o/of-course.mp4
+word: once in a while  link: https://www.handspeak.com/word/o/once-in-a-while.mp4
+word: from time to time  link: https://www.handspeak.com/word/f/from-time-to-time.mp4
+word: opponent  link: https://www.handspeak.com/word/o/opponent.mp4
+word: ordinary  link: https://www.handspeak.com/word/o/ordinary.mp4
+word: pajamas  link: https://www.handspeak.com/word/p/pajamas.mp4
+word: parachute  link: https://www.handspeak.com/word/p/parachute.mp4
+word: pack  link: https://www.handspeak.com/word/p/pack-in.mp4
+word: package  link: https://www.handspeak.com/word/p/package.mp4
+word: painless  link: https://www.handspeak.com/word/p/painless.mp4
+word: pamphlet  link: https://www.handspeak.com/word/p/pamphlet.mp4
+word: parade  link: https://www.handspeak.com/word/p/parade.mp4
+word: parallel  link: https://www.handspeak.com/word/p/parallel.mp4
+word: trajectory  link: https://www.handspeak.com/word/t/trajectory.mp4
+word: orbit  link: https://www.handspeak.com/word/o/orbit-satellite.mp4
+word: henceforth  link: https://www.handspeak.com/word/h/henceforth.mp4
+word: onward  link: https://www.handspeak.com/word/o/onward-from.mp4
+word: origin  link: https://www.handspeak.com/word/o/origin.mp4
+word: original  link: https://www.handspeak.com/word/o/original.mp4
+word: outdoor  link: https://www.handspeak.com/word/o/outdoor.mp4
+word: outright  link: https://www.handspeak.com/word/o/outspoken2.mp4
+word: paranoid  link: https://www.handspeak.com/word/p/paranoid.mp4
+word: panic  link: https://www.handspeak.com/word/p/panic.mp4
+word: oxygen  link: https://www.handspeak.com/word/o/oxygen.mp4
+word: oversight  link: https://www.handspeak.com/word/o/oversight.mp4
+word: overlap  link: https://www.handspeak.com/word/o/overlap.mp4
+word: overcome  link: https://www.handspeak.com/word/o/overcome.mp4
+word: outgrow  link: https://www.handspeak.com/word/o/outgrow-mature.mp4
+word: panda bear  link: https://www.handspeak.com/word/p/panda-bear.mp4
+word: parenthesis  link: https://www.handspeak.com/word/p/parenthesis.mp4
+word: park (vehicle)  link: https://www.handspeak.com/word/p/park-car.mp4
+word: parking lot  link: https://www.handspeak.com/word/p/parking-lot.mp4
+word: parking meter  link: https://www.handspeak.com/word/p/parking-meter.mp4
+word: pass away  link: https://www.handspeak.com/word/p/pass-away.mp4
+word: pamper  link: https://www.handspeak.com/word/p/pamper-baby.mp4
+word: indulge  link: https://www.handspeak.com/word/i/indulge.mp4
+word: paralysis  link: https://www.handspeak.com/word/p/paralysis.mp4
+word: passive  link: https://www.handspeak.com/word/p/passive.mp4
+word: path  link: https://www.handspeak.com/word/p/path.mp4
+word: poverty  link: https://www.handspeak.com/word/p/poverty.mp4
+word: paucity  link: https://www.handspeak.com/word/p/paucity.mp4
+word: pave  link: https://www.handspeak.com/word/p/pave.mp4
+word: pay off  link: https://www.handspeak.com/word/p/pay-off.mp4
+word: pear  link: https://www.handspeak.com/word/p/pear.mp4
+word: penetrate  link: https://www.handspeak.com/word/p/penetrate.mp4
+word: perceive  link: https://www.handspeak.com/word/p/perceive.mp4
+word: percent  link: https://www.handspeak.com/word/p/percent.mp4
+word: perfume  link: https://www.handspeak.com/word/p/perfume.mp4
+word: cologne  link: https://www.handspeak.com/word/c/cologne.mp4
+word: perhaps  link: https://www.handspeak.com/word/p/perhaps.mp4
+word: perspire  link: https://www.handspeak.com/word/p/perspire.mp4
+word: photographer  link: https://www.handspeak.com/word/p/photographer.mp4
+word: photography  link: https://www.handspeak.com/word/p/photography.mp4
+word: pet  link: https://www.handspeak.com/word/p/pet.mp4
+word: piano  link: https://www.handspeak.com/word/p/piano.mp4
+word: pinch  link: https://www.handspeak.com/word/p/pinch.mp4
+word: jab  link: https://www.handspeak.com/word/j/jab2.mp4
+word: performance  link: https://www.handspeak.com/word/p/performance.mp4
+word: performance  link: https://www.handspeak.com/word/p/performance2.mp4
+word: pedal-bike  link: https://www.handspeak.com/word/p/pedal-bike.mp4
+word: brake  link: https://www.handspeak.com/word/b/brake-pedal.mp4
+word: pay attention  link: https://www.handspeak.com/word/p/pay-attention.mp4
+word: inattentive  link: https://www.handspeak.com/word/i/inattentive.mp4
+word: strut  link: https://www.handspeak.com/word/s/strut.mp4
+word: pizzeria  link: https://www.handspeak.com/word/p/pizzeria.mp4
+word: psychology  link: https://www.handspeak.com/word/p/psychology.mp4
+word: profession  link: https://www.handspeak.com/word/p/profession.mp4
+word: potato chip  link: https://www.handspeak.com/word/p/potato-chip.mp4
+word: pressure  link: https://www.handspeak.com/word/p/pressure.mp4
+word: punctual  link: https://www.handspeak.com/word/p/punctual.mp4
+word: preserve  link: https://www.handspeak.com/word/p/preserve.mp4
+word: preview  link: https://www.handspeak.com/word/p/preview.mp4
+word: post office  link: https://www.handspeak.com/word/p/post-office.mp4
+word: knob  link: https://www.handspeak.com/word/k/knob.mp4
+word: exchange  link: https://www.handspeak.com/word/e/exchange.mp4
+word: strict  link: https://www.handspeak.com/word/s/strict.mp4
+word: open book  link: https://www.handspeak.com/word/o/open-book.mp4
+word: book bindery  link: https://www.handspeak.com/word/b/book-bindery.mp4
+word: beat down  link: https://www.handspeak.com/word/b/beat-down.mp4
+word: time off  link: https://www.handspeak.com/word/t/time-off.mp4
+word: attentive  link: https://www.handspeak.com/word/a/attentive.mp4
+word: attention seeking  link: https://www.handspeak.com/word/a/attention-get.mp4
+word: give or take  link: https://www.handspeak.com/word/g/give-take.mp4
+word: disburse  link: https://www.handspeak.com/word/d/disburse.mp4
+word: supply  link: https://www.handspeak.com/word/s/supply.mp4
+word: endow  link: https://www.handspeak.com/word/e/endow.mp4
+word: hand over  link: https://www.handspeak.com/word/h/hand-over.mp4
+word: give hard time  link: https://www.handspeak.com/word/g/give-hard-time.mp4
+word: bestow  link: https://www.handspeak.com/word/b/bestow.mp4
+word: help desk  link: https://www.handspeak.com/word/h/help-desk.mp4
+word: help each  link: https://www.handspeak.com/word/h/help-each.mp4
+word: helper  link: https://www.handspeak.com/word/h/helper.mp4
+word: betray  link: https://www.handspeak.com/word/b/betray-fs.mp4
+word: disclose  link: https://www.handspeak.com/word/d/disclose.mp4
+word: reveal  link: https://www.handspeak.com/word/r/reveal-inform.mp4
+word: showroom  link: https://www.handspeak.com/word/s/showroom.mp4
+word: take up  link: https://www.handspeak.com/word/t/take-up.mp4
+word: take liberty  link: https://www.handspeak.com/word/t/take-liberty.mp4
+word: take it or leave it  link: https://www.handspeak.com/word/t/take-or-leave.mp4
+word: simultaneous  link: https://www.handspeak.com/word/s/simultaneous.mp4
+word: summon  link: https://www.handspeak.com/word/s/summon.mp4
+word: subtitle  link: https://www.handspeak.com/word/s/subtitle.mp4
+word: rent  link: https://www.handspeak.com/word/r/rent-fs.mp4
+word: ruin  link: https://www.handspeak.com/word/r/ruin.mp4
+word: grass  link: https://www.handspeak.com/word/g/grass.mp4
+word: supervise  link: https://www.handspeak.com/word/s/supervise.mp4
+word: switch (trade)  link: https://www.handspeak.com/word/s/switch-trade.mp4
+word: revamp  link: https://www.handspeak.com/word/r/revamp-change.mp4
+word: trophy  link: https://www.handspeak.com/word/t/trophy.mp4
+word: take down  link: https://www.handspeak.com/word/t/take-down-wrestle.mp4
+word: caregiver  link: https://www.handspeak.com/word/c/caregiver.mp4
+word: hire  link: https://www.handspeak.com/word/h/hire.mp4
+word: commission  link: https://www.handspeak.com/word/c/commission-fs.mp4
+word: enlist  link: https://www.handspeak.com/word/e/enlist.mp4
+word: employ  link: https://www.handspeak.com/word/e/employ.mp4
+word: present (gift)  link: https://www.handspeak.com/word/p/present-gift.mp4
+word: gifted  link: https://www.handspeak.com/word/g/gifted.mp4
+word: advantage  link: https://www.handspeak.com/word/t/advantage.mp4
+word: fired (job)  link: https://www.handspeak.com/word/f/fire-job.mp4
+word: closed captioning  link: https://www.handspeak.com/word/c/caption-subtitle.mp4
+word: caption  link: https://www.handspeak.com/word/c/caption.mp4
+word: choose  link: https://www.handspeak.com/word/c/choose.mp4
+word: pick  link: https://www.handspeak.com/word/p/pick.mp4
+word: elevate  link: https://www.handspeak.com/word/e/elevate.mp4
+word: elect  link: https://www.handspeak.com/word/e/elect.mp4
+word: upgrade  link: https://www.handspeak.com/word/u/upgrade-fs.mp4
+word: post  link: https://www.handspeak.com/word/p/post-wall.mp4
+word: indignant  link: https://www.handspeak.com/word/i/indignant.mp4
+word: eventual  link: https://www.handspeak.com/word/e/eventual.mp4
+word: informed consent  link: https://www.handspeak.com/word/i/informed-consent.mp4
+word: consent  link: https://www.handspeak.com/word/c/consent.mp4
+word: apprise  link: https://www.handspeak.com/word/a/apprise.mp4
+word: promulgate  link: https://www.handspeak.com/word/p/promulgate.mp4
+word: advanced  link: https://www.handspeak.com/word/a/advanced.mp4
+word: affectionate  link: https://www.handspeak.com/word/a/affectionate.mp4
+word: afford  link: https://www.handspeak.com/word/a/afford.mp4
+word: apparent  link: https://www.handspeak.com/word/a/apparent.mp4
+word: declutter  link: https://www.handspeak.com/word/d/declutter.mp4
+word: arrange  link: https://www.handspeak.com/word/a/arrange-plan.mp4
+word: agenda  link: https://www.handspeak.com/word/a/agenda-list.mp4
+word: timetable  link: https://www.handspeak.com/word/t/timetable.mp4
+word: astonishing  link: https://www.handspeak.com/word/a/astonishing.mp4
+word: amazing  link: https://www.handspeak.com/word/a/amazing.mp4
+word: ambivalent  link: https://www.handspeak.com/word/a/ambivalent.mp4
+word: ambiguous  link: https://www.handspeak.com/word/a/ambiguous-vague.mp4
+word: amputate  link: https://www.handspeak.com/word/a/amputate.mp4
+word: sever  link: https://www.handspeak.com/word/s/sever-cut.mp4
+word: assume  link: https://www.handspeak.com/word/a/assume.mp4
+word: alert  link: https://www.handspeak.com/word/a/alert2.mp4
+word: audience  link: https://www.handspeak.com/word/a/audience.mp4
+word: hallucination  link: https://www.handspeak.com/word/h/hallucinate.mp4
+word: authenticate  link: https://www.handspeak.com/word/a/authenticate.mp4
+word: authority  link: https://www.handspeak.com/word/a/authority.mp4
+word: acquaint  link: https://www.handspeak.com/word/a/acquaint.mp4
+word: aware  link: https://www.handspeak.com/word/a/aware.mp4
+word: awake  link: https://www.handspeak.com/word/a/awake.mp4
+word: wakeful  link: https://www.handspeak.com/word/w/wakeful-allnight.mp4
+word: attract  link: https://www.handspeak.com/word/a/attract-shahen.mp4
+word: seduce  link: https://www.handspeak.com/word/s/seduce-flatter.mp4
+word: accompany  link: https://www.handspeak.com/word/a/accompany.mp4
+word: escort  link: https://www.handspeak.com/word/e/escort-protect.mp4
+word: drifting  link: https://www.handspeak.com/word/d/drifting.mp4
+word: dare  link: https://www.handspeak.com/word/d/dare.mp4
+word: audacious  link: https://www.handspeak.com/word/a/audacious.mp4
+word: daring (courageous)  link: https://www.handspeak.com/word/d/dare-courage.mp4
+word: like-minded  link: https://www.handspeak.com/word/l/like-minded.mp4
+word: identical  link: https://www.handspeak.com/word/i/identical.mp4
+word: union  link: https://www.handspeak.com/word/u/union.mp4
+word: coalition  link: https://www.handspeak.com/word/c/coalition.mp4
+word: partner  link: https://www.handspeak.com/word/p/partner.mp4
+word: coworker  link: https://www.handspeak.com/word/c/coworker.mp4
+word: pallid  link: https://www.handspeak.com/word/p/pallid.mp4
+word: artist  link: https://www.handspeak.com/word/a/artist.mp4
+word: cafeteria  link: https://www.handspeak.com/word/c/cafeteria.mp4
+word: et cetera  link: https://www.handspeak.com/word/e/et-cetera.mp4
+word: wake up  link: https://www.handspeak.com/word/w/wake-up.mp4
+word: sew  link: https://www.handspeak.com/word/s/sew.mp4
+word: effortless  link: https://www.handspeak.com/word/e/effortless.mp4
+word: fluent  link: https://www.handspeak.com/word/f/fluent-signed.mp4
+word: newsletter  link: https://www.handspeak.com/word/n/newsletter-fs.mp4
+word: ash blonde  link: https://www.handspeak.com/word/a/ash-blonde.mp4
+word: blueprint  link: https://www.handspeak.com/word/b/blueprint.mp4
+word: blue collar  link: https://www.handspeak.com/word/b/blue-collar.mp4
+word: burn down  link: https://www.handspeak.com/word/b/burn-down.mp4
+word: abnormal  link: https://www.handspeak.com/word/a/abnormal.mp4
+word: aggregate  link: https://www.handspeak.com/word/a/aggregate.mp4
+word: total  link: https://www.handspeak.com/word/t/total.mp4
+word: academic  link: https://www.handspeak.com/word/a/academic.mp4
+word: accomplish  link: https://www.handspeak.com/word/a/accomplish.mp4
+word: harmony  link: https://www.handspeak.com/word/h/harmony.mp4
+word: understanding  link: https://www.handspeak.com/word/u/understanding.mp4
+word: accuse  link: https://www.handspeak.com/word/a/accuse.mp4
+word: hold responsible  link: https://www.handspeak.com/word/h/hold-responsible.mp4
+word: familiar  link: https://www.handspeak.com/word/f/familiar.mp4
+word: adapt  link: https://www.handspeak.com/word/a/adapt.mp4
+word: adult  link: https://www.handspeak.com/word/a/adult.mp4
+word: grown-up  link: https://www.handspeak.com/word/g/grown-up.mp4
+word: kidnap  link: https://www.handspeak.com/word/k/kidnap.mp4
+word: abduct  link: https://www.handspeak.com/word/a/abduct.mp4
+word: save up  link: https://www.handspeak.com/word/s/save-up.mp4
+word: conserve  link: https://www.handspeak.com/word/c/conserve-protect.mp4
+word: excuse  link: https://www.handspeak.com/word/e/excuse-reason.mp4
+word: obese  link: https://www.handspeak.com/word/o/obese.mp4
+word: funny bone  link: https://www.handspeak.com/word/f/funny-bone.mp4
+word: adjust  link: https://www.handspeak.com/word/a/adjust.mp4
+word: adhesive  link: https://www.handspeak.com/word/a/adhesive.mp4
+word: tacky  link: https://www.handspeak.com/word/t/tacky.mp4
+word: absenteeism  link: https://www.handspeak.com/word/a/absenteeism.mp4
+word: absent-minded  link: https://www.handspeak.com/word/a/absent-minded.mp4
+word: distracted  link: https://www.handspeak.com/word/d/distracted-eyes.mp4
+word: distracted driving  link: https://www.handspeak.com/word/d/distracted-driving.mp4
+word: engrossed  link: https://www.handspeak.com/word/e/engrossed.mp4
+word: mirror interpreter  link: https://www.handspeak.com/word/m/mirror-terp.mp4
+word: gawk  link: https://www.handspeak.com/word/g/gawk.mp4
+word: funny-zero  link: https://www.handspeak.com/word/f/funny-nothing.mp4
+word: zoo  link: https://www.handspeak.com/word/z/zoo-fs.mp4
+word: Texas  link: https://www.handspeak.com/word/t/texas.mp4
+word: outburst  link: https://www.handspeak.com/word/o/outburst-feeling.mp4
+word: outbreak  link: https://www.handspeak.com/word/o/outbreak.mp4
+word: Melbourne  link: https://www.handspeak.com/word/m/melbourne.mp4
+word: yeah  link: https://www.handspeak.com/word/y/yeah.mp4
+word: converge  link: https://www.handspeak.com/word/c/converge-come.mp4
+word: adjoin  link: https://www.handspeak.com/word/a/adjoin.mp4
+word: tryst  link: https://www.handspeak.com/word/t/tryst.mp4
+word: rendezvous  link: https://www.handspeak.com/word/r/rendezvous.mp4
+word: yarn  link: https://www.handspeak.com/word/y/yarn.mp4
+word: pester  link: https://www.handspeak.com/word/p/pester.mp4
+word: x-ray  link: https://www.handspeak.com/word/x/xray.mp4
+word: xylophone  link: https://www.handspeak.com/word/x/xylophone.mp4
+word: wag-tail  link: https://www.handspeak.com/word/w/wag-tail.mp4
+word: tail  link: https://www.handspeak.com/word/t/tail.mp4
+word: waiter  link: https://www.handspeak.com/word/w/waiter.mp4
+word: wall  link: https://www.handspeak.com/word/w/wall.mp4
+word: wallpaper  link: https://www.handspeak.com/word/w/wallpaper.mp4
+word: wand  link: https://www.handspeak.com/word/w/wand.mp4
+word: wander  link: https://www.handspeak.com/word/w/wander.mp4
+word: warp  link: https://www.handspeak.com/word/w/warp.mp4
+word: watermelon  link: https://www.handspeak.com/word/w/watermelon.mp4
+word: watchdog  link: https://www.handspeak.com/word/w/watchdog.mp4
+word: web browser  link: https://www.handspeak.com/word/w/web-browser.mp4
+word: Wednesday  link: https://www.handspeak.com/word/w/wednesday.mp4
+word: whiskers  link: https://www.handspeak.com/word/w/whiskers.mp4
+word: five o'clock shadow  link: https://www.handspeak.com/word/f/five-oclock-shadow.mp4
+word: whole  link: https://www.handspeak.com/word/w/whole.mp4
+word: wholly  link: https://www.handspeak.com/word/w/whole-all.mp4
+word: whore  link: https://www.handspeak.com/word/w/whore.mp4
+word: why not  link: https://www.handspeak.com/word/w/why-not.mp4
+word: wide  link: https://www.handspeak.com/word/w/wide.mp4
+word: willing  link: https://www.handspeak.com/word/w/willing.mp4
+word: windshield  link: https://www.handspeak.com/word/w/windshield.mp4
+word: windshield wipers  link: https://www.handspeak.com/word/w/windshield-wipers.mp4
+word: talk  link: https://www.handspeak.com/word/t/talk.mp4
+word: tax  link: https://www.handspeak.com/word/t/tax-fs.mp4
+word: teapot  link: https://www.handspeak.com/word/t/teapot.mp4
+word: talented  link: https://www.handspeak.com/word/t/talent.mp4
+word: talent  link: https://www.handspeak.com/word/t/talent-natural.mp4
+word: woodpecker  link: https://www.handspeak.com/word/w/woodpecker.mp4
+word: wing  link: https://www.handspeak.com/word/w/wing-bird.mp4
+word: worker  link: https://www.handspeak.com/word/w/worker.mp4
+word: worn-out  link: https://www.handspeak.com/word/w/worn-out.mp4
+word: worst  link: https://www.handspeak.com/word/w/worst.mp4
+word: worsen  link: https://www.handspeak.com/word/w/worsen.mp4
+word: vacant  link: https://www.handspeak.com/word/v/vacant.mp4
+word: valley  link: https://www.handspeak.com/word/v/valley.mp4
+word: vanish  link: https://www.handspeak.com/word/v/vanish-disappear.mp4
+word: unbalanced  link: https://www.handspeak.com/word/u/unbalanced.mp4
+word: deranged  link: https://www.handspeak.com/word/d/deranged.mp4
+word: unhappy  link: https://www.handspeak.com/word/u/unhappy.mp4
+word: unlike  link: https://www.handspeak.com/word/u/unlike.mp4
+word: unwanted  link: https://www.handspeak.com/word/u/unwanted.mp4
+word: unity  link: https://www.handspeak.com/word/u/unity.mp4
+word: vacuum cleaner  link: https://www.handspeak.com/word/v/vacuum-cleaner.mp4
+word: value  link: https://www.handspeak.com/word/v/value-worth.mp4
+word: valuable  link: https://www.handspeak.com/word/v/valuable.mp4
+word: visual  link: https://www.handspeak.com/word/v/visual.mp4
+word: plug-in  link: https://www.handspeak.com/word/p/plug-in.mp4
+word: low  link: https://www.handspeak.com/word/l/low.mp4
+word: blush  link: https://www.handspeak.com/word/b/blush.mp4
+word: close minded  link: https://www.handspeak.com/word/c/close-minded.mp4
+word: absolute  link: https://www.handspeak.com/word/a/absolute.mp4
+word: relative (family)  link: https://www.handspeak.com/word/r/relative-family.mp4
+word: swallow  link: https://www.handspeak.com/word/s/swallow.mp4
+word: suppress  link: https://www.handspeak.com/word/s/suppress.mp4
+word: hunt  link: https://www.handspeak.com/word/h/hunt.mp4
+word: dismiss  link: https://www.handspeak.com/word/d/dismiss-excuse.mp4
+word: downstairs  link: https://www.handspeak.com/word/d/downstairs.mp4
+word: down  link: https://www.handspeak.com/word/d/down.mp4
+word: pepper  link: https://www.handspeak.com/word/p/pepper-black.mp4
+word: black pepper  link: https://www.handspeak.com/word/b/black-pepper.mp4
+word: length  link: https://www.handspeak.com/word/l/length-size.mp4
+word: span  link: https://www.handspeak.com/word/s/span.mp4
+word: height  link: https://www.handspeak.com/word/h/height-size.mp4
+word: height  link: https://www.handspeak.com/word/h/height-size2.mp4
+word: vaccine  link: https://www.handspeak.com/word/v/vaccinate.mp4
+word: vaccination  link: https://www.handspeak.com/word/v/vaccination.mp4
+word: volcano  link: https://www.handspeak.com/word/v/volcano.mp4
+word: unite  link: https://www.handspeak.com/word/u/unite.mp4
+word: undermine  link: https://www.handspeak.com/word/u/undermine.mp4
+word: under  link: https://www.handspeak.com/word/u/under-below.mp4
+word: under control  link: https://www.handspeak.com/word/u/under-control.mp4
+word: utter  link: https://www.handspeak.com/word/u/utter-manual.mp4
+word: articulate  link: https://www.handspeak.com/word/a/articulate-signing.mp4
+word: screwdriver  link: https://www.handspeak.com/word/s/screwdriver.mp4
+word: real  link: https://www.handspeak.com/word/r/real.mp4
+word: anyway  link: https://www.handspeak.com/word/a/anyway.mp4
+word: wine  link: https://www.handspeak.com/word/w/wine.mp4
+word: reason  link: https://www.handspeak.com/word/r/reason.mp4
+word: realize  link: https://www.handspeak.com/word/r/realize.mp4
+word: penny-pinching  link: https://www.handspeak.com/word/p/penny-pinching.mp4
+word: wet  link: https://www.handspeak.com/word/w/wet.mp4
+word: cream  link: https://www.handspeak.com/word/c/cream.mp4
+word: dissatisfied  link: https://www.handspeak.com/word/d/dissatisfied.mp4
+word: disappointed  link: https://www.handspeak.com/word/d/disappoint2.mp4
+word: persuade  link: https://www.handspeak.com/word/p/persuade-insist.mp4
+word: lure  link: https://www.handspeak.com/word/l/lure.mp4
+word: convince  link: https://www.handspeak.com/word/c/convince.mp4
+word: beseech  link: https://www.handspeak.com/word/b/beseech.mp4
+word: gone  link: https://www.handspeak.com/word/g/gone-left.mp4
+word: awry  link: https://www.handspeak.com/word/a/awry.mp4
+word: take place  link: https://www.handspeak.com/word/t/take-place.mp4
+word: take picture  link: https://www.handspeak.com/word/t/take-picture.mp4
+word: take notice  link: https://www.handspeak.com/word/t/take-notice.mp4
+word: nation  link: https://www.handspeak.com/word/n/nation.mp4
+word: national  link: https://www.handspeak.com/word/n/national.mp4
+word: one dollar  link: https://www.handspeak.com/word/o/one-dollar.mp4
+word: Philadelphia  link: https://www.handspeak.com/word/p/philadelphia.mp4
+word: Chicago  link: https://www.handspeak.com/word/c/chicago.mp4
+word: dancer  link: https://www.handspeak.com/
