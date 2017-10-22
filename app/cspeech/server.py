@@ -9,12 +9,14 @@ manager = Manager(app)
 @app.route('/', methods=["GET", "POST"])
 def index():
     print("TEST")
+    defaultURL = "https://www.handspeak.com/word/b/baby.mp4"
     if request.method == "POST":
         print("POST")
         response = request.form["phone"]
         print(response)
         return "HELLO"
-    return render_template("index.html")
+        return render_template("index.html", variable = defaultURL)
+    return render_template("index.html",  variable = None)
 
 @app.route('/getVideo')
 def video():

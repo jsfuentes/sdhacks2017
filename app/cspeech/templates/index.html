@@ -95,6 +95,12 @@
       </div>
     </section>
 
+    {% if variable != None %}
+    <video width="320" height = "240" controls>
+      <source src={{variable}} type=video/mp4>
+    </video>
+    {% endif %}
+
     <!-- Footer -->
     <footer class="text-center">
       <div class="footer-above">
