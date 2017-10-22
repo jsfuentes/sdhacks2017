@@ -1,0 +1,9 @@
+word: analyze  link: https://www.handspeak.com/word/a/analyze.mp4
+word: introspect  link: https://www.handspeak.com/word/i/introspect.mp4
+word: abandon  link: https://www.handspeak.com/word/a/abandon.mp4
+word: abbreviate  link: https://www.handspeak.com/word/a/abbreviate.mp4
+word: stillborn  link: https://www.handspeak.com/word/s/stillborn.mp4
+word: about  link: https://www.handspeak.com/word/a/about.mp4
+word: regarding  link: https://www.handspeak.com/word/r/regarding.mp4
+word: above  link: https://www.handspeak.com/word/a/above.mp4
+word: abstract art  link: https://www.handspeak.com/word/a/abstract-art.mp4
